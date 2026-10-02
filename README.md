@@ -1,6 +1,6 @@
 # Employee Data Cleaning with Pandas
 
-## 📌 Project Overview
+## Project Overview
 
 This project focuses on cleaning and preprocessing a **large, messy employee dataset** using **Python, Pandas, and NumPy**.
 
@@ -8,7 +8,7 @@ The dataset contains missing values, duplicate records, inconsistent text values
 
 The goal is to transform the raw dataset into a **clean, consistent, and analysis-ready dataset**.
 
-## 🔄 Data Cleaning Process
+## Data Cleaning Process
 
 ### 1. Data Loading & Exploration
 
@@ -78,7 +78,7 @@ The final cleaned dataset was exported as:
 cleaned_employee_dataset.csv
 ```
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * Python
 * Pandas
@@ -86,7 +86,7 @@ cleaned_employee_dataset.csv
 * Jupyter Notebook / VS Code
 
 
-## 📊 Dataset
+## Dataset
 
 The dataset contains **1,000 records and 12 employee-related columns** after duplicate removal.
 
@@ -94,6 +94,6 @@ Key columns include:
 
 `Employee_ID`, `Name`, `Age`, `Department`, `City`, `Monthly_Salary`, `Years_At_Company`, `Join_Date`, `Email`, `Employment_Status`, `Education`, and `Performance_Score`.
 
-## 🎯 Key Learning Outcomes
+##  Key Learning Outcomes
 
 This project provided hands-on practice with **data preprocessing, missing-value handling, duplicate removal, data-type conversion, categorical cleaning, numerical cleaning, date handling, validation, and preparing real-world messy data for analysis or machine learning.**
