@@ -1,0 +1,1031 @@
+Employee_ID,Name,Age,Department,City,Monthly_Salary,Years_At_Company,Join_Date,Email,Employment_Status,Education,Performance_Score
+E0001,Divya,22,HR,Chennai,,3.5,,employee1@example.com,active,PG,excellent
+ E0002 ,Meena,,Human Resources,Madurai,"₹45,000",14.7,04/04/2025,,Resigned,UG,1.4
+E0003,Meena,thirty,Marketing,Bengaluru,25695,11.5,not a date,employee3@example.com,Left,,
+E0004,  anitha ,,it , chennai ,-25000,-2,"Nov 30, 2021",missing-email,ACTIVE,Post Graduate,
+ E0005 ,Kavin,-5,IT,Bengaluru,75570,5.7,"Jul 07, 2025",,Left,,7
+E0006,Nila,,Finance, chennai ,54438,five,"Mar 29, 2023", Employee6@Example.com ,Active,UG,
+E0007,ROHAN,48,hr,Salem,not disclosed,five,,employee7@example.com,Resigned,UG,
+E0008,Rahul,21,Human Resources,Chennai,,12.7,"Nov 18, 2025", Employee8@Example.com ,Resigned,ug ,0
+E0009,  anitha ,40,Finance,Coimbatore,81143,18.3,, Employee9@Example.com ,left,Post Graduate,7
+E0010,Arun,55,IT, chennai ,"₹45,000",-2,,,Resigned,UG,
+E0011,Arun,58,it ,,,1.7,"Oct 27, 2025",employee11@example.com,Left,Post Graduate,excellent
+ E0012 ,ROHAN,,HR, chennai ,,40,not a date,,Active,ug ,3.9
+E0013,Kavin,,HR,Chennai,"₹45,000",40,2022-05-27,,active,PG,7
+ E0014 ,ROHAN,150,FINANCE,,"₹45,000",40,not a date,missing-email,ACTIVE,PG,2.2
+E0015,Nila,58,hr,Coimbatore,100209,five,, Employee15@Example.com ,active,Post Graduate,
+ E0016 ,Arun,thirty,Marketing,Bengaluru,not disclosed,five,,missing-email,Left,Diploma,0
+E0017,Meena,50,Human Resources,Bengaluru,not disclosed,25.0,, Employee17@Example.com ,active,PG,
+ E0018 ,Kavin,55,hr,Coimbatore,97303,five,2022-09-06, Employee18@Example.com ,left,Diploma,0
+E0019,Rahul,thirty,Human Resources,Salem,146065,40,"Aug 26, 2025",employee19@example.com,ACTIVE,,7
+ E0020 ,Priya,56,HR,Salem,not disclosed,-2,, Employee20@Example.com ,Resigned,UG,
+E0021,ROHAN,-5,Sales,HYDERABAD,,,not a date,employee21@example.com,Left,Diploma,1.6
+ E0022 ,Rahul,150,it , chennai ,"₹45,000",,2022-04-02, Employee22@Example.com ,left,Diploma,7
+ E0023 ,ROHAN,55,Sales,HYDERABAD,,-2,2021-03-20,,active,ug ,
+ E0024 ,Kavin,23,Marketing,Bengaluru,not disclosed,five,07/11/2024,missing-email,Resigned,,0
+E0025,Divya,40,Marketing,Coimbatore,"₹45,000",five,18/09/2021,,left,ug ,3.2
+E0026,Kavin,,it ,Bengaluru,"₹45,000",,not a date, Employee26@Example.com ,active,PG,
+E0027,ROHAN,33, sales,,"₹45,000",15.3,not a date, Employee27@Example.com ,On Leave,PG,1.6
+E0028,Sanjay,,Marketing,Bengaluru,"₹45,000",,2026-02-22,,,Post Graduate,excellent
+E0029,Arun,150,it ,,"₹45,000",,"Sep 17, 2025",,active,,0
+ E0030 ,Divya,thirty,Sales,,,,17/12/2024,employee30@example.com,On Leave,UG,7
+E0031,ROHAN,58,FINANCE,Madurai,"₹45,000",-2,not a date,,,PG,7
+E0032,Vijay,-5,Marketing,Chennai,"₹45,000",five,2023-12-30,,active,,7
+ E0033 ,Meena,-5,hr,,,-2,not a date,missing-email,Active,,0
+E0034,Sanjay,25,Marketing, chennai ,,5.0,26/06/2024, Employee34@Example.com ,Left,ug ,0
+ E0035 ,ROHAN,thirty,IT, chennai ,-25000,2.7,"Mar 18, 2026",,Left,UG,0
+E0036,Divya,thirty,Finance, chennai ,not disclosed,-2,,missing-email,On Leave,Diploma,7
+E0037,Meena,,Finance,Madurai,"₹45,000",five,"Jul 04, 2022", Employee37@Example.com ,,Post Graduate,7
+E0038,Ahalya,150,FINANCE,Madurai,"₹45,000",-2,"Nov 29, 2022",missing-email,active,PG,7
+E0039,Arun,36,it ,Bengaluru,"₹45,000",19.8,26/08/2022,,,Post Graduate,7
+E0040,ROHAN,-5,FINANCE,Coimbatore,-25000,6.3,17/01/2025,missing-email,Left,PG,0
+E0041,Nila,thirty,Human Resources,Salem,,-2,"Jan 03, 2022",employee41@example.com,Active,UG,
+ E0042 ,Kavin,52,hr,HYDERABAD,"₹45,000",,2026-06-01,missing-email,,UG,3.3
+E0043,Divya,thirty,Finance,,,40,, Employee43@Example.com ,left,Post Graduate,0
+E0044,Kavin,57,Human Resources,Chennai,47235,5.3,18/11/2021, Employee44@Example.com ,On Leave,ug ,7
+E0045,Vijay,,Marketing,Madurai,57056,21.5,08/11/2024,missing-email,On Leave,UG,
+E0046,Sanjay,38,it ,HYDERABAD,-25000,five,"Mar 02, 2026",,left,Post Graduate,7
+E0047,Meena,26,,Chennai,not disclosed,6.3,,employee47@example.com,ACTIVE,ug ,7
+E0048,Rahul,thirty, sales,,132264,40,"Nov 14, 2022",employee48@example.com,left,,excellent
+E0049,Nila,23,Finance,HYDERABAD,-25000,40,,employee49@example.com,Active,PG,excellent
+E0050,  anitha ,52,,Madurai,not disclosed,-2,not a date,employee50@example.com,ACTIVE,Diploma,excellent
+ E0051 ,Sanjay,,Finance,Madurai,47743,,"Oct 18, 2023",missing-email,,Post Graduate,
+E0052,Meena,53,it ,,-25000,40,,missing-email,ACTIVE,ug ,0
+ E0053 ,Ahalya,thirty,Sales,,-25000,,not a date, Employee53@Example.com ,On Leave,ug ,
+E0054,ROHAN,,Human Resources,HYDERABAD,149672,40,,,ACTIVE,UG,0
+E0055,Ahalya,60,, chennai ,-25000,five,"Feb 18, 2023",,Left,,0
+ E0056 ,Ahalya,150,it ,Bengaluru,"₹45,000",-2,2026-01-25,employee56@example.com,Resigned,ug ,excellent
+E0057,Priya,57,IT,,,40,23/06/2024,,left,ug ,2.0
+ E0058 ,Meena,39,IT,HYDERABAD,"₹45,000",five,not a date,missing-email,,UG,excellent
+ E0059 ,Arun,-5,,Bengaluru,22875,9.9,2024-03-05,,Left,,0
+ E0060 ,Rahul,27, sales,Coimbatore,"₹45,000",-2,08/02/2025,employee60@example.com,Left,PG,0
+ E0061 ,Kavin,-5,Human Resources,Madurai,"₹45,000",-2,"Mar 09, 2025",employee61@example.com,On Leave,Post Graduate,7
+E0062,  anitha ,thirty,IT,,-25000,-2,not a date,missing-email,Active,Post Graduate,excellent
+E0063,Meena,,Finance, chennai ,80852,40,27/08/2021,employee63@example.com,active,PG,
+E0064,ROHAN,-5,Sales,Madurai,"₹45,000",40,not a date,missing-email,,ug ,0
+E0065,Arun,thirty,Marketing,Chennai,"₹45,000",6.9,not a date,employee65@example.com,Active,Diploma,
+ E0066 ,Priya,57,Human Resources,Salem,,,,employee66@example.com,ACTIVE,UG,3.6
+E0067,Kavin,-5,Finance,,80372,4.4,not a date,employee67@example.com,Resigned,Post Graduate,7
+ E0068 ,  anitha ,thirty,hr,,-25000,11.5,not a date,,,UG,0
+E0069,Nila,59,it ,,not disclosed,five,"Dec 29, 2024",,On Leave,UG,4.2
+ E0070 ,Divya,150,Sales,Salem,"₹45,000",40,not a date,employee70@example.com,Resigned,PG,7
+E0071,Nila,25,FINANCE,Bengaluru,42439,-2,21/07/2025,employee71@example.com,active,ug ,7
+E0072,Rahul,thirty,FINANCE,Bengaluru,99906,,not a date, Employee72@Example.com ,active,Diploma,7
+E0073,Priya,thirty,Human Resources,HYDERABAD,24882,-2,"Mar 03, 2026",missing-email,active,PG,4.0
+E0074,Priya,,Human Resources,Chennai,"₹45,000",-2,"Oct 01, 2022",employee74@example.com,active,Diploma,7
+ E0075 ,  anitha ,150,Marketing,,,18.9,not a date,employee75@example.com,left,UG,excellent
+ E0076 ,ROHAN,, sales,Coimbatore,,-2,2022-11-03,employee76@example.com,ACTIVE,ug ,
+E0077,Rahul,56,,HYDERABAD,"₹45,000",21.5,2023-06-13,,On Leave,,0
+E0078,Divya,28,,HYDERABAD,not disclosed,-2,not a date,employee78@example.com,active,ug ,0
+E0079,  anitha ,,Human Resources,Madurai,86910,five,"Feb 02, 2022",missing-email,active,PG,
+E0080,Vijay,30,Marketing,Bengaluru,43218,five,,,Resigned,PG,7
+ E0081 ,Meena,-5,hr, chennai ,not disclosed,40,2023-07-15,employee81@example.com,On Leave,ug ,3.3
+E0082,Rahul,57,hr,Coimbatore,not disclosed,,2026-05-16,,Active,PG,7
+E0083,  anitha ,thirty,Sales, chennai ,-25000,40,"Apr 18, 2023",employee83@example.com,Resigned,UG,7
+E0084,ROHAN,37,Marketing,HYDERABAD,57419,,"Feb 21, 2026",missing-email,ACTIVE,Post Graduate,3.8
+E0085,Rahul,150,it ,Coimbatore,36750,five,not a date,missing-email,Left,Diploma,7
+E0086,Rahul,,,Coimbatore,-25000,21.1,,employee86@example.com,On Leave,PG,excellent
+E0087,Nila,31,IT,Salem,67749,40,"Jun 04, 2024",,,PG,excellent
+ E0088 ,Ahalya,-5,Marketing,,not disclosed,,31/07/2025, Employee88@Example.com ,Resigned,Post Graduate,excellent
+E0089,Sanjay,28,Sales,Chennai,"₹45,000",,not a date,employee89@example.com,On Leave,UG,0
+E0090,Ahalya,36,it ,,116281,8.0,"Sep 15, 2025", Employee90@Example.com ,ACTIVE,,excellent
+ E0091 ,Arun,21,it , chennai ,,five,not a date,employee91@example.com,Active,PG,excellent
+ E0092 ,Ahalya,50,,Bengaluru,22154,,11/01/2025,missing-email,Left,Post Graduate,2.7
+ E0093 ,Kavin,54,Sales,Madurai,"₹45,000",40,"Feb 04, 2023",employee93@example.com,active,Post Graduate,0
+E0094,ROHAN,-5,Finance,Chennai,42949,40,17/07/2024, Employee94@Example.com ,left,PG,
+E0095,Rahul,-5,it , chennai ,-25000,,"Aug 09, 2022",employee95@example.com,Resigned,ug ,7
+E0096,Divya,,,Coimbatore,-25000,five,2022-07-01,,left,Diploma,0
+ E0097 ,  anitha ,150,HR, chennai ,41842,40,"Mar 28, 2021",,On Leave,Diploma,
+E0098,Priya,thirty,Marketing,,,-2,not a date,employee98@example.com,Resigned,Diploma,2.8
+E0099,Priya,thirty,Finance,HYDERABAD,-25000,,2026-05-22,employee99@example.com,active,Diploma,7
+E0100,  anitha ,-5,Sales,Bengaluru,146765,3.4,15/07/2023,,active,Post Graduate,0
+ E0101 ,Nila,-5,,Bengaluru,,,not a date,employee101@example.com,,Post Graduate,1.5
+E0102,Kavin,150,Finance,,"₹45,000",five,01/06/2021,missing-email,Resigned,PG,excellent
+E0103,Rahul,,IT,Bengaluru,131408,five,"Nov 10, 2021", Employee103@Example.com ,left,UG,excellent
+E0104,  anitha ,29,,Bengaluru,97383,,, Employee104@Example.com ,Active,UG,excellent
+E0105,  anitha ,thirty, sales,Salem,"₹45,000",five,"Aug 17, 2022",,,UG,
+ E0106 ,Priya,150,Sales, chennai ,-25000,-2,"Oct 31, 2025",missing-email,Resigned,PG,0
+ E0107 ,Vijay,,Sales,Madurai,-25000,five,07/05/2023, Employee107@Example.com ,ACTIVE,ug ,7
+E0108,Ahalya,150,it ,,"₹45,000",,,missing-email,,Diploma,3.1
+ E0109 ,Nila,-5,it , chennai ,-25000,1.1,, Employee109@Example.com ,On Leave,Post Graduate,excellent
+E0110,Vijay,60,FINANCE,HYDERABAD,49145,-2,"Feb 17, 2024", Employee110@Example.com ,Active,UG,0
+,ROHAN,150,it ,Bengaluru,,five,15/10/2022,,,,7
+E0112,Vijay,-5,,Madurai,not disclosed,7.7,not a date,missing-email,Active,Post Graduate,excellent
+ E0113 ,Divya,,Human Resources,HYDERABAD,not disclosed,23.7,2022-01-26,,Left,ug ,excellent
+E0114,Sanjay,24,FINANCE,Bengaluru,,40,not a date,missing-email,Resigned,,0
+E0115,ROHAN,,Finance,Bengaluru,not disclosed,-2,"Apr 29, 2025", Employee115@Example.com ,,Diploma,0
+E0116,Kavin,thirty,Sales,,-25000,,2022-08-18,missing-email,left,,
+E0117,Nila,thirty,IT,Madurai,89203,five,06/05/2022,employee117@example.com,Active,UG,7
+ E0118 ,Meena,27,Marketing,Chennai,73334,40,05/09/2023,missing-email,active,,excellent
+E0119,Meena,150,, chennai ,"₹45,000",,"Apr 03, 2026",employee119@example.com,Resigned,Diploma,excellent
+E0120,Priya,,HR,Bengaluru,,-2,not a date,missing-email,left,Post Graduate,
+E0121,Sanjay,60,Sales,Madurai,not disclosed,40,2024-10-02, Employee121@Example.com ,Active,Diploma,7
+ E0122 ,Priya,-5, sales,Salem,54282,,2021-05-08,,active,,0
+E0123,  anitha ,,IT,Madurai,"₹45,000",five,not a date,,active,Post Graduate,0
+E0124,  anitha ,25,IT,,,,"Dec 03, 2021",,active,Post Graduate,2.8
+ E0125 ,Meena,thirty,HR,Madurai,not disclosed,40,"Oct 09, 2024",employee125@example.com,active,UG,2.7
+ E0126 ,Sanjay,55, sales,HYDERABAD,-25000,,not a date,missing-email,active,,excellent
+ E0127 ,Sanjay,29,Marketing,HYDERABAD,not disclosed,,2025-09-06,employee127@example.com,On Leave,PG,0
+E0128,Vijay,,HR,,24222,10.5,08/05/2022,employee128@example.com,Active,PG,7
+E0129,Vijay,thirty,Marketing,Bengaluru,,-2,,missing-email,Left,Diploma,excellent
+E0130,Rahul,-5,Marketing,HYDERABAD,not disclosed,,not a date,,Resigned,,
+E0131,Divya,, sales,Coimbatore,,,not a date,employee131@example.com,On Leave,PG,0
+E0132,Vijay,-5,Marketing,Madurai,42238,five,2024-05-19,employee132@example.com,,PG,0
+ E0133 ,Arun,,FINANCE,Bengaluru,35376,40,16/02/2026, Employee133@Example.com ,left,ug ,0
+ E0134 ,Rahul,-5, sales,Chennai,148358,40,"Apr 09, 2025", Employee134@Example.com ,Left,,0
+ E0135 ,Nila,thirty,Marketing,Bengaluru,,,, Employee135@Example.com ,left,ug ,7
+E0136,Ahalya,31,hr,Chennai,,40,,employee136@example.com,Active,ug ,
+E0137,Sanjay,25,HR,Chennai,"₹45,000",five,,,On Leave,UG,0
+E0138,Vijay,55,FINANCE,Salem,,2.7,10/12/2023, Employee138@Example.com ,Resigned,Diploma,4.2
+ E0139 ,Divya,150, sales,,-25000,17.1,2024-08-31,employee139@example.com,Active,,
+ E0140 ,Ahalya,150,hr,Salem,not disclosed,,,,Active,PG,0
+E0141,Nila,thirty,Sales,HYDERABAD,55798,five,,,ACTIVE,,excellent
+ E0142 ,Ahalya,43,Marketing,Salem,132580,five,,,,ug ,excellent
+ E0143 ,Priya,, sales,Coimbatore,not disclosed,,2024-12-31,employee143@example.com,On Leave,Diploma,2.4
+E0144,Ahalya,150,hr,Bengaluru,112350,,not a date,,active,Post Graduate,0
+E0145,Divya,-5,Human Resources,Coimbatore,126477,five,28/01/2026, Employee145@Example.com ,left,Diploma,
+E0146,  anitha ,150,Finance,Madurai,-25000,12.1,"Jan 10, 2023", Employee146@Example.com ,,UG,1.5
+E0147,ROHAN,thirty,IT,,"₹45,000",five,"Oct 06, 2021",missing-email,Resigned,PG,0
+,Nila,thirty,Human Resources,Chennai,"₹45,000",40,2023-01-18, Employee148@Example.com ,,,0
+ E0149 ,Kavin,47,Finance,,38242,-2,10/09/2024,,On Leave,Post Graduate,7
+E0150,  anitha ,-5,Marketing,HYDERABAD,,-2,,employee150@example.com,Resigned,ug ,1.4
+ E0151 ,Ahalya,thirty,Finance, chennai ,-25000,five,, Employee151@Example.com ,left,ug ,4.7
+E0152,Sanjay,-5,Finance,Bengaluru,"₹45,000",five,"Sep 17, 2023",,active,Diploma,1.2
+E0153,Divya,42,Finance,Madurai,41542,,05/02/2024,missing-email,On Leave,,7
+ E0154 ,ROHAN,22,hr, chennai ,not disclosed,10.7,14/12/2024, Employee154@Example.com ,ACTIVE,Diploma,7
+ E0155 ,Rahul,37,Finance,Coimbatore,89168,40,not a date,employee155@example.com,left,Post Graduate,
+E0156,Priya,,,HYDERABAD,,,not a date,,On Leave,PG,excellent
+E0157,Sanjay,,Human Resources,Madurai,,40,2024-06-22,missing-email,On Leave,Post Graduate,7
+E0158,Meena,150,IT,Salem,,2.1,18/06/2025,missing-email,ACTIVE,ug ,7
+E0159,Arun,56, sales, chennai ,not disclosed,-2,2024-01-16,,Left,Diploma,4.5
+E0160,Vijay,-5,Marketing,HYDERABAD,40802,,,missing-email,ACTIVE,Post Graduate,
+E0161,Meena,thirty,FINANCE, chennai ,-25000,,"Oct 25, 2022",missing-email,ACTIVE,ug ,0
+E0162,Divya,, sales,,,40,30/09/2023,missing-email,active,,4.2
+E0163,Sanjay,53,Marketing,Bengaluru,"₹45,000",-2,2024-04-06,employee163@example.com,active,Post Graduate,7
+E0164,Ahalya,-5,HR, chennai ,-25000,,not a date,missing-email,,UG,
+E0165,Rahul,49,it , chennai ,46518,-2,"Nov 22, 2021",employee165@example.com,Resigned,,
+E0166,Priya,46,,Madurai,"₹45,000",16.4,03/01/2021,,,UG,0
+ E0167 ,Rahul,48,it ,Coimbatore,52648,5.7,2025-02-05,employee167@example.com,On Leave,PG,
+E0168,  anitha ,thirty,Finance,Madurai,"₹45,000",,10/07/2024,,active,UG,1.6
+E0169,Ahalya,-5,Marketing,Salem,,6.2,,missing-email,Left,Post Graduate,
+E0170,Ahalya,39,Sales,Bengaluru,"₹45,000",,,employee170@example.com,ACTIVE,ug ,excellent
+E0171,Ahalya,thirty, sales,Salem,63290,0.4,"Jan 29, 2021", Employee171@Example.com ,On Leave,ug ,3.8
+E0172,Rahul,thirty, sales, chennai ,58024,five,02/03/2026, Employee172@Example.com ,left,,
+E0173,ROHAN,24,Human Resources,Chennai,"₹45,000",15.3,26/09/2022,employee173@example.com,ACTIVE,ug ,excellent
+ E0174 ,Divya,,it , chennai ,36637,-2,2025-02-10,employee174@example.com,left,,4.9
+E0175,Vijay,thirty,Marketing, chennai ,"₹45,000",,24/01/2023,missing-email,Left,,3.0
+E0176,Rahul,21,IT,HYDERABAD,"₹45,000",,2026-03-23,,Resigned,Diploma,excellent
+ E0177 ,Meena,thirty,it ,Bengaluru,,20.1,not a date,employee177@example.com,active,Post Graduate,0
+E0178,Ahalya,thirty, sales,Chennai,"₹45,000",40,02/05/2025, Employee178@Example.com ,Left,Post Graduate,2.4
+E0179,ROHAN,21,it , chennai ,116638,,not a date,employee179@example.com,Active,PG,excellent
+ E0180 ,  anitha ,150,Human Resources,Madurai,not disclosed,40,,employee180@example.com,left,Diploma,7
+E0181,Kavin,150,Human Resources,,89291,,,employee181@example.com,,Diploma,excellent
+E0182,Rahul,150,Human Resources, chennai ,-25000,21.3,"Nov 19, 2021",employee182@example.com,Left,Diploma,2.6
+E0183,Priya,,hr,Chennai,"₹45,000",five,2022-05-27,,Active,PG,7
+E0184,Rahul,thirty,hr,Chennai,85848,,not a date, Employee184@Example.com ,,UG,excellent
+ E0185 ,Sanjay,150,Human Resources,Chennai,70165,-2,16/03/2022,missing-email,Left,,7
+E0186,Nila,56,HR,HYDERABAD,"₹45,000",,, Employee186@Example.com ,Resigned,ug ,7
+ E0187 ,Ahalya,thirty,Finance,Bengaluru,-25000,-2,07/05/2024,employee187@example.com,Left,PG,
+E0188,Vijay,55,Sales,Bengaluru,not disclosed,40,28/12/2022, Employee188@Example.com ,Active,,excellent
+E0189,Vijay,thirty,IT,Chennai,not disclosed,40,2021-03-19,employee189@example.com,,UG,excellent
+E0190,Rahul,-5,hr,Bengaluru,64520,five,14/12/2024,employee190@example.com,On Leave,Post Graduate,0
+E0191,  anitha ,,,Coimbatore,83858,five,,missing-email,On Leave,Diploma,0
+E0192,Vijay,32,hr,,not disclosed,five,, Employee192@Example.com ,ACTIVE,Diploma,
+ E0193 ,Kavin,,HR,Chennai,"₹45,000",,2022-05-27,missing-email,On Leave,ug ,
+ E0194 ,Kavin,150,HR,Salem,110073,five,26/08/2024, Employee194@Example.com ,Active,Diploma,2.0
+E0195,Ahalya,, sales,Coimbatore,41090,1.9,,,On Leave,PG,0
+E0196,Ahalya,150,Sales,Chennai,-25000,5.9,,,On Leave,UG,excellent
+ E0197 ,Sanjay,51,Finance,Salem,,16.0,2023-08-28,missing-email,active,,
+E0198,Ahalya,-5,Human Resources, chennai ,66911,40,24/06/2022,missing-email,active,,excellent
+ E0199 ,Meena,,hr,HYDERABAD,not disclosed,five,not a date, Employee199@Example.com ,Active,Post Graduate,excellent
+E0200,Ahalya,, sales, chennai ,,,14/06/2026, Employee200@Example.com ,On Leave,PG,
+E0201,ROHAN,-5,,HYDERABAD,"₹45,000",five,"Oct 30, 2022",,active,ug ,excellent
+ E0202 ,  anitha ,58,Finance,,-25000,-2,not a date,missing-email,Active,PG,
+E0203,Sanjay,59,it ,Bengaluru,"₹45,000",-2,15/11/2024,employee203@example.com,Active,Diploma,0
+E0204,Divya,150,, chennai ,,40,"May 05, 2025",missing-email,Left,ug ,7
+E0205,Arun,-5,IT,Chennai,,five,07/04/2023,employee205@example.com,Left,UG,0
+ E0206 ,Sanjay,-5,,,"₹45,000",15.9,2024-10-27, Employee206@Example.com ,ACTIVE,ug ,0
+E0207,  anitha ,-5,IT,Madurai,41695,,, Employee207@Example.com ,left,,2.6
+ E0208 ,Rahul,,Finance,Salem,,-2,"Dec 30, 2024",,Left,ug ,excellent
+ E0209 ,  anitha ,thirty,hr,,not disclosed,-2,,missing-email,active,Diploma,0
+E0210,Rahul,37,Marketing,Coimbatore,,,2026-01-17,,Active,,0
+E0211,ROHAN,150,IT,,not disclosed,five,30/07/2025,missing-email,Resigned,Post Graduate,
+E0212,Kavin,-5,IT,Bengaluru,,five,12/04/2025,missing-email,Left,,7
+ E0213 ,Arun,-5,FINANCE, chennai ,95083,five,,employee213@example.com,On Leave,Post Graduate,2.2
+E0214,Sanjay,,Sales,Coimbatore,not disclosed,40,"Oct 21, 2021", Employee214@Example.com ,Resigned,,7
+ E0215 ,Sanjay,, sales,Chennai,59532,40,not a date,,Active,Post Graduate,0
+E0216,Kavin,thirty, sales,Salem,22348,,"Apr 09, 2022",missing-email,ACTIVE,UG,0
+E0217,Priya,50, sales,Chennai,76841,-2,not a date,missing-email,Left,PG,
+E0218,Ahalya,thirty,Marketing, chennai ,-25000,17.8,"Feb 08, 2023",employee218@example.com,Active,UG,7
+E0219,Nila,49,it ,Coimbatore,82180,3.8,not a date,employee219@example.com,On Leave,UG,excellent
+ E0220 ,ROHAN,28, sales,Salem,,-2,, Employee220@Example.com ,ACTIVE,UG,
+E0221,Kavin,,FINANCE, chennai ,21671,2.2,,,active,Diploma,7
+,Kavin,150,hr,Chennai,,-2,"Jan 08, 2023",,Active,PG,
+ E0223 ,Meena,150, sales,,-25000,,not a date,,On Leave,,
+E0224,Vijay,29, sales,Bengaluru,33373,five,,,Active,,
+E0225,Rahul,51,FINANCE, chennai ,125815,-2,, Employee225@Example.com ,On Leave,,7
+E0226,Kavin,,Finance,Bengaluru,21526,five,not a date,,Left,Diploma,4.9
+E0227,Sanjay,thirty,Finance,Bengaluru,,40,,,active,ug ,4.0
+E0228,  anitha ,150,Finance,Bengaluru,27393,five,"Jul 29, 2024", Employee228@Example.com ,Resigned,UG,7
+ E0229 ,Rahul,thirty,Marketing,Salem,67617,11.3,05/04/2025,employee229@example.com,Resigned,,
+ E0230 ,Arun,29,Sales, chennai ,-25000,,not a date, Employee230@Example.com ,On Leave,UG,excellent
+E0231,Priya,150,,Coimbatore,53294,13.3,not a date,,ACTIVE,UG,excellent
+ E0232 ,Sanjay,thirty,Human Resources,Coimbatore,not disclosed,,not a date,missing-email,On Leave,Post Graduate,excellent
+E0233,  anitha ,-5,Human Resources,Bengaluru,,-2,"Nov 07, 2024", Employee233@Example.com ,active,Diploma,excellent
+E0234,Ahalya,47,IT,Salem,92954,13.1,20/02/2023,employee234@example.com,ACTIVE,Diploma,
+E0235,Nila,,it ,Chennai,"₹45,000",five,07/11/2025,,On Leave,ug ,0
+E0236,Nila,56,,Madurai,not disclosed,40,27/08/2025,missing-email,Left,Diploma,2.8
+E0237,Meena,32,HR,Bengaluru,49287,five,26/06/2022, Employee237@Example.com ,,,4.7
+E0238,Arun,thirty,Human Resources, chennai ,"₹45,000",five,2023-01-04,missing-email,ACTIVE,ug ,7
+E0239,  anitha ,,HR, chennai ,-25000,,,,Resigned,ug ,excellent
+E0240,Rahul,60,FINANCE,,102131,five,"Jan 22, 2025",employee240@example.com,,UG,
+E0241,Arun,41,FINANCE,HYDERABAD,not disclosed,13.3,08/03/2022,,active,,3.7
+ E0242 ,Divya,50, sales,,40943,-2,2024-02-17, Employee242@Example.com ,On Leave,ug ,7
+ E0243 ,  anitha ,28,it , chennai ,25965,-2,,employee243@example.com,left,ug ,2.5
+E0244,ROHAN,thirty,Marketing,Bengaluru,37875,five,28/08/2022,missing-email,Active,Post Graduate,
+E0245,Priya,28,IT,Salem,-25000,-2,not a date, Employee245@Example.com ,Left,UG,excellent
+ E0246 ,Rahul,150,Human Resources,Madurai,58096,1.7,,,active,Diploma,
+ E0247 ,Priya,150,HR,Bengaluru,60065,five,"Mar 06, 2024",missing-email,Left,PG,7
+E0248,  anitha ,,, chennai ,"₹45,000",-2,,employee248@example.com,left,PG,
+E0249,Nila,25,it ,,not disclosed,five,not a date, Employee249@Example.com ,ACTIVE,Diploma,excellent
+E0250,Priya,150,Finance,Coimbatore,149366,five,22/01/2021, Employee250@Example.com ,ACTIVE,Post Graduate,
+E0251,Rahul,51, sales,,,-2,2022-04-25, Employee251@Example.com ,,UG,0
+E0252,  anitha ,54,hr,Salem,not disclosed,,not a date,missing-email,On Leave,PG,0
+E0253,Priya,150,Human Resources,Coimbatore,,,,missing-email,Resigned,Post Graduate,3.9
+E0254,Arun,-5,HR,Coimbatore,83113,,24/04/2024,,ACTIVE,PG,3.5
+E0255,ROHAN,57,Marketing,Salem,,40,,employee255@example.com,active,PG,7
+E0256,ROHAN,,Marketing,Bengaluru,not disclosed,,,missing-email,,Post Graduate,
+E0257,Kavin,,Human Resources,,,five,not a date, Employee257@Example.com ,Active,Post Graduate,3.0
+E0258,Nila,51, sales,Madurai,20157,five,"May 12, 2023",employee258@example.com,,ug ,excellent
+ E0259 ,Arun,,HR,Chennai,,22.8,,,active,Post Graduate,
+E0260,Rahul,-5,,Salem,"₹45,000",-2,,,On Leave,PG,excellent
+E0261,Arun,-5,Finance,Coimbatore,-25000,40,15/02/2025,employee261@example.com,active,PG,0
+ E0262 ,Vijay,60, sales, chennai ,"₹45,000",24.1,2025-07-06, Employee262@Example.com ,active,Diploma,1.9
+E0263,  anitha ,23,Finance,,not disclosed,-2,,employee263@example.com,Active,PG,excellent
+E0264,Meena,39, sales,Bengaluru,42214,,2024-09-03, Employee264@Example.com ,On Leave,ug ,excellent
+ E0265 ,Divya,21,,Chennai,-25000,-2,, Employee265@Example.com ,left,PG,2.6
+E0266,Sanjay,thirty, sales,,95136,-2,,missing-email,Left,Diploma,7
+ E0267 ,Rahul,50,FINANCE,Chennai,-25000,,18/10/2024,missing-email,left,PG,7
+ E0268 ,ROHAN,thirty,IT,Madurai,-25000,five,06/07/2022, Employee268@Example.com ,Left,Diploma,
+ E0269 ,Rahul,-5,,Bengaluru,58893,40,2024-06-11,employee269@example.com,,Post Graduate,7
+E0270,Ahalya,-5,FINANCE,Bengaluru,not disclosed,five,not a date,,On Leave,,7
+ E0271 ,Vijay,150,it ,Coimbatore,100746,40,2024-04-04,missing-email,left,PG,excellent
+ E0272 ,Priya,,,Coimbatore,,-2,not a date,missing-email,Left,UG,
+E0273,  anitha ,150,FINANCE,Bengaluru,39116,3.7,not a date,,,Diploma,excellent
+E0274,Rahul,24,it ,Bengaluru,,40,2025-09-15,,Resigned,Post Graduate,0
+ E0275 ,Rahul,150,Sales,,66018,,, Employee275@Example.com ,,UG,0
+E0276,Rahul,,IT,Bengaluru,75288,40,2025-10-05,employee276@example.com,Resigned,,0
+E0277,Priya,-5,IT,Salem,67600,40,28/04/2023, Employee277@Example.com ,active,PG,1.7
+E0278,  anitha ,150, sales,Salem,"₹45,000",13.1,"Aug 01, 2021", Employee278@Example.com ,Left,PG,7
+E0279,Meena,thirty,FINANCE,,62723,-2,not a date,,ACTIVE,,excellent
+E0280,Arun,50,hr,,88610,-2,"Feb 05, 2026",,left,Diploma,
+ E0281 ,Ahalya,40, sales,Salem,-25000,11.7,not a date,,Left,UG,
+ E0282 ,Kavin,150, sales,Madurai,,40,not a date, Employee282@Example.com ,left,Diploma,excellent
+E0283,Vijay,,Finance,Madurai,,40,not a date,missing-email,Resigned,UG,excellent
+E0284,Sanjay,22,IT,Bengaluru,,17.9,2022-04-22, Employee284@Example.com ,On Leave,Diploma,7
+E0285,Nila,50,Finance,Coimbatore,26319,,"Apr 25, 2021",,Left,Diploma,4.3
+ E0286 ,Divya,150,Marketing,Salem,52396,,2023-08-02, Employee286@Example.com ,Resigned,PG,3.5
+E0287,Arun,56,Marketing,HYDERABAD,83075,-2,2025-12-23, Employee287@Example.com ,Resigned,UG,0
+ E0288 ,Kavin,150,IT,Coimbatore,81724,40,, Employee288@Example.com ,,UG,0
+E0289,Arun,-5,HR,HYDERABAD,,-2,"Feb 18, 2024",,Resigned,,1.5
+ E0290 ,Vijay,thirty,FINANCE,Coimbatore,,five,"Dec 14, 2022",,active,Post Graduate,0
+E0291,Arun,-5,Sales, chennai ,20094,,2025-12-14,missing-email,On Leave,PG,7
+E0292,Priya,thirty,Human Resources,Chennai,"₹45,000",16.0,,employee292@example.com,Left,UG,2.9
+E0293,Vijay,57,hr,Chennai,not disclosed,five,2022-06-09,missing-email,Left,,3.0
+E0294,Kavin,-5,it , chennai ,68374,five,,employee294@example.com,Left,Post Graduate,
+E0295,Kavin,,Marketing,Bengaluru,88969,,,,,,3.7
+ E0296 ,Nila,thirty,Sales,Bengaluru,-25000,five,not a date,missing-email,On Leave,,0
+ E0297 ,Ahalya,thirty,HR,Salem,not disclosed,-2,not a date,,Active,Post Graduate,0
+E0298,Ahalya,,Finance,Bengaluru,74314,-2,, Employee298@Example.com ,ACTIVE,PG,excellent
+ E0299 ,Priya,-5,Finance, chennai ,not disclosed,,2025-02-12,missing-email,left,UG,excellent
+E0300,  anitha ,45, sales,Chennai,"₹45,000",10.4,17/11/2025,employee300@example.com,left,Post Graduate,excellent
+E0301,Divya,-5,it ,HYDERABAD,,40,not a date,employee301@example.com,ACTIVE,PG,7
+ E0302 ,Nila,thirty,IT,,122645,40,04/05/2025, Employee302@Example.com ,On Leave,,excellent
+E0303,  anitha ,, sales,HYDERABAD,-25000,-2,,employee303@example.com,Resigned,Diploma,0
+E0304,Arun,-5,IT,Bengaluru,not disclosed,40,30/06/2024,,ACTIVE,,4.4
+E0305,Rahul,thirty,IT,Madurai,56712,8.6,not a date,,Left,Post Graduate,0
+E0306,Meena,thirty,IT,Salem,"₹45,000",five,"Mar 31, 2021", Employee306@Example.com ,Active,ug ,3.6
+ E0307 ,Sanjay,45,, chennai ,89122,40,not a date,employee307@example.com,ACTIVE,PG,7
+ E0308 ,  anitha ,56,Sales,Bengaluru,-25000,40,05/03/2025,employee308@example.com,left,PG,excellent
+ E0309 ,  anitha ,24,Human Resources, chennai ,85549,-2,07/04/2022,missing-email,On Leave,Post Graduate,excellent
+E0310,  anitha ,,Human Resources,Madurai,-25000,-2,, Employee310@Example.com ,ACTIVE,Diploma,excellent
+E0311,Ahalya,,Sales,HYDERABAD,59431,13.9,"Jan 13, 2022", Employee311@Example.com ,On Leave,Diploma,0
+E0312,Arun,30,IT,Chennai,52483,five,"Jun 17, 2024", Employee312@Example.com ,Resigned,UG,7
+E0313,Arun,thirty,HR,HYDERABAD,,40,29/08/2023, Employee313@Example.com ,Active,Diploma,
+ E0314 ,Divya,33,HR,HYDERABAD,not disclosed,-2,not a date, Employee314@Example.com ,Resigned,ug ,excellent
+E0315,Ahalya,thirty,FINANCE,HYDERABAD,28095,11.3,03/12/2025,,Active,PG,7
+ E0316 ,  anitha ,150,Finance, chennai ,-25000,15.3,, Employee316@Example.com ,active,PG,excellent
+E0317,Meena,150,Sales,Coimbatore,102793,five,11/01/2026,,active,UG,7
+E0318,Rahul,thirty,,Coimbatore,not disclosed,40,not a date,employee318@example.com,ACTIVE,PG,1.7
+E0319,Meena,-5,HR,,57851,,21/05/2026,employee319@example.com,,ug ,3.2
+E0320,Nila,,it ,Madurai,"₹45,000",10.3,,employee320@example.com,Active,PG,0
+E0321,  anitha ,23,,Coimbatore,96234,40,01/01/2022,missing-email,,,3.3
+E0322,Kavin,-5,it ,Bengaluru,114618,five,"May 13, 2021",,On Leave,Post Graduate,
+ E0323 ,Nila,60,,Bengaluru,83394,-2,,missing-email,ACTIVE,Post Graduate,excellent
+E0324,Divya,, sales,Chennai,,0.0,2023-08-11, Employee324@Example.com ,Resigned,Diploma,
+E0325,  anitha ,33,Sales,Bengaluru,91826,five,"Feb 01, 2024",employee325@example.com,On Leave,,3.3
+E0326,Rahul,-5,Finance,HYDERABAD,"₹45,000",,14/09/2023,,Active,Post Graduate,0
+ E0327 ,  anitha ,56,FINANCE,Coimbatore,-25000,,2022-07-29,missing-email,On Leave,PG,0
+E0328,Meena,-5,Human Resources, chennai ,"₹45,000",-2,"Jul 15, 2023", Employee328@Example.com ,Resigned,UG,4.1
+ E0329 ,Priya,49,hr,Coimbatore,,40,,missing-email,Left,,7
+E0330,Nila,54,Marketing,Salem,25771,21.2,not a date,employee330@example.com,Active,Post Graduate,
+E0331,Priya,,it , chennai ,not disclosed,40,2024-10-06,missing-email,Active,Post Graduate,3.2
+E0332,Meena,-5,,Bengaluru,,-2,21/03/2024, Employee332@Example.com ,,UG,7
+,Rahul,150,it ,Bengaluru,"₹45,000",five,,,Left,,excellent
+E0334,Arun,thirty,Human Resources,Salem,32178,40,not a date,,Resigned,ug ,0
+ E0335 ,Vijay,150,,Coimbatore,"₹45,000",40,03/08/2023,missing-email,active,ug ,4.3
+E0336,Priya,56,Finance,HYDERABAD,not disclosed,five,27/04/2023, Employee336@Example.com ,active,Diploma,excellent
+E0337,Vijay,thirty,,,,16.6,,,Resigned,Post Graduate,7
+E0338,Arun,150,Human Resources,Chennai,34253,40,not a date,employee338@example.com,ACTIVE,,excellent
+ E0339 ,ROHAN,thirty,Sales, chennai ,,-2,,missing-email,Active,Post Graduate,7
+E0340,Divya,29,,HYDERABAD,114789,-2,"Aug 13, 2021",employee340@example.com,Resigned,,7
+E0341,Meena,,Marketing,Coimbatore,,40,"Sep 24, 2025",,ACTIVE,UG,1.3
+E0342,Priya,52,Finance,HYDERABAD,132487,40,not a date,,,ug ,
+E0343,Ahalya,48,,,51031,40,,missing-email,Resigned,UG,3.3
+E0344,ROHAN,-5,Marketing, chennai ,139880,five,01/07/2021,,left,Post Graduate,0
+ E0345 ,Priya,150,HR,Salem,"₹45,000",-2,"May 13, 2023",missing-email,left,UG,excellent
+ E0346 ,Priya,31,,Salem,-25000,,2023-11-02,missing-email,left,Diploma,1.1
+E0347,Nila,thirty,HR,Bengaluru,-25000,-2,22/05/2025,,active,PG,
+E0348,Meena,150,hr,Chennai,77695,,"Mar 29, 2024",employee348@example.com,ACTIVE,ug ,0
+ E0349 ,Sanjay,, sales,Bengaluru,"₹45,000",five,not a date,employee349@example.com,Active,UG,0
+ E0350 ,  anitha ,60,IT,Madurai,-25000,6.7,,,Resigned,,
+E0351,ROHAN,41,it ,Salem,20221,five,not a date,missing-email,Left,UG,1.1
+ E0352 ,  anitha ,59,Marketing,Coimbatore,35963,23.9,, Employee352@Example.com ,active,,0
+ E0353 ,Ahalya,25, sales,HYDERABAD,"₹45,000",-2,12/06/2022,employee353@example.com,Resigned,UG,0
+E0354,Vijay,32,Marketing, chennai ,not disclosed,40,11/08/2021,,,,2.0
+E0355,Divya,thirty,it ,Coimbatore,83692,,2024-08-30,employee355@example.com,Resigned,ug ,excellent
+E0356,Nila,150,Sales,Bengaluru,not disclosed,40,not a date,employee356@example.com,left,ug ,1.2
+E0357,Arun,-5,it ,HYDERABAD,-25000,,2024-02-10,,active,,7
+E0358,Nila,49,Marketing,Salem,67666,five,not a date,,,Post Graduate,7
+E0359,Nila,-5,Human Resources,Madurai,64265,1.1,,,active,UG,7
+E0360,Sanjay,thirty,,Coimbatore,51808,16.2,2021-12-19,missing-email,active,UG,excellent
+ E0361 ,Arun,60,HR,Coimbatore,-25000,40,2022-10-27, Employee361@Example.com ,Resigned,UG,
+E0362,Vijay,31, sales,Coimbatore,"₹45,000",five,25/03/2021,employee362@example.com,Active,ug ,1.3
+E0363,  anitha ,26,it ,,74555,40,18/11/2024, Employee363@Example.com ,On Leave,PG,excellent
+E0364,Arun,,IT, chennai ,31537,-2,not a date,employee364@example.com,active,Post Graduate,excellent
+E0365,Priya,150,Marketing,Chennai,72554,,not a date,,Active,,
+ E0366 ,Nila,-5,hr, chennai ,136789,five,27/12/2021,employee366@example.com,Left,,excellent
+ E0367 ,Arun,,hr,,103376,8.2,not a date, Employee367@Example.com ,,UG,
+E0368,Rahul,150,Human Resources,Chennai,-25000,,"Jul 18, 2024",missing-email,Active,Diploma,7
+E0369,Divya,,FINANCE,,-25000,five,29/01/2026, Employee369@Example.com ,Left,Post Graduate,7
+,Ahalya,21, sales,Chennai,,five,, Employee370@Example.com ,Active,ug ,excellent
+E0371,Ahalya,thirty, sales,Madurai,82818,40,12/10/2023,employee371@example.com,ACTIVE,Diploma,2.2
+ E0372 ,Sanjay,51,Human Resources,HYDERABAD,41207,five,,employee372@example.com,ACTIVE,Diploma,3.5
+E0373,Kavin,45,,Bengaluru,105269,-2,, Employee373@Example.com ,Active,Post Graduate,0
+E0374,ROHAN,150,IT,Coimbatore,not disclosed,-2,,employee374@example.com,Resigned,PG,7
+E0375,Kavin,34,Sales,Bengaluru,-25000,five,not a date,missing-email,,ug ,3.0
+E0376,Divya,55,Human Resources,Salem,not disclosed,9.2,not a date,employee376@example.com,active,UG,1.7
+ E0377 ,Rahul,, sales,,88247,40,, Employee377@Example.com ,Active,Diploma,1.8
+ E0378 ,Meena,54,,Coimbatore,not disclosed,-2,,,left,PG,
+E0379,Priya,-5,Marketing,Coimbatore,-25000,,20/06/2024,missing-email,ACTIVE,PG,0
+E0380,Rahul,150,Finance,Coimbatore,,5.1,"Sep 25, 2024",missing-email,left,UG,7
+E0381,ROHAN,150,it ,,101943,five,,missing-email,left,Post Graduate,excellent
+ E0382 ,Vijay,42,IT,,47442,five,"Aug 28, 2021",employee382@example.com,Resigned,UG,excellent
+E0383,Divya,thirty,IT,,,five,not a date,employee383@example.com,Resigned,Post Graduate,3.4
+ E0384 ,Nila,,hr,Madurai,"₹45,000",-2,"Dec 08, 2022",missing-email,,,7
+ E0385 ,Sanjay,31,FINANCE,Bengaluru,,five,26/06/2021, Employee385@Example.com ,active,Post Graduate,4.0
+E0386,Divya,47,it ,,,five,27/03/2025, Employee386@Example.com ,Active,Diploma,0
+E0387,  anitha ,56,Marketing,Salem,139491,,"Jun 22, 2022",,On Leave,PG,
+ E0388 ,  anitha ,-5,Marketing,,not disclosed,five,,,active,Diploma,excellent
+ E0389 ,Rahul,, sales,Bengaluru,-25000,,02/01/2023,employee389@example.com,Active,Diploma,2.2
+ E0390 ,  anitha ,33,Sales, chennai ,not disclosed,five,"Oct 23, 2022",missing-email,Resigned,PG,excellent
+E0391,Vijay,150,FINANCE, chennai ,,,28/10/2023, Employee391@Example.com ,On Leave,ug ,4.7
+E0392,ROHAN,150,it ,Chennai,60838,40,,missing-email,active,PG,
+ E0393 ,Ahalya,,IT, chennai ,73008,10.6,2021-06-09,,Active,,3.1
+E0394,Arun,-5,Human Resources,Bengaluru,-25000,16.7,2025-05-22, Employee394@Example.com ,Active,UG,0
+E0395,Ahalya,-5,FINANCE,Madurai,85619,five,2024-03-13,employee395@example.com,Left,Diploma,excellent
+ E0396 ,Divya,, sales,Madurai,68033,40,2024-10-11, Employee396@Example.com ,Left,ug ,0
+ E0397 ,Sanjay,28,hr,HYDERABAD,-25000,five,2025-01-18,employee397@example.com,left,ug ,0
+E0398,Ahalya,thirty,Marketing,,"₹45,000",4.7,not a date,missing-email,active,ug ,2.8
+ E0399 ,Arun,150,,HYDERABAD,33332,,"May 13, 2021", Employee399@Example.com ,active,PG,7
+E0400,Meena,thirty,Human Resources,,-25000,five,not a date,,active,UG,7
+E0401,  anitha ,35,Sales,Coimbatore,44110,12.5,14/06/2026,,left,Post Graduate,3.5
+E0402,Nila,150,HR,Chennai,58477,five,,missing-email,On Leave,UG,0
+ E0403 ,Priya,150,it ,HYDERABAD,,-2,17/12/2025,,,UG,7
+ E0404 ,Vijay,thirty, sales,Bengaluru,not disclosed,five,not a date,missing-email,left,Diploma,excellent
+ E0405 ,Rahul,-5,HR,Madurai,23525,8.5,"May 27, 2023",missing-email,Left,PG,excellent
+E0406,Nila,-5, sales,Salem,,-2,not a date,,Active,,2.9
+ E0407 ,Nila,thirty,Marketing,Bengaluru,not disclosed,40,24/07/2021,missing-email,ACTIVE,Post Graduate,7
+E0408,ROHAN,52,hr, chennai ,-25000,-2,not a date, Employee408@Example.com ,Resigned,Diploma,excellent
+E0409,Nila,,Sales,Madurai,30048,five,"Jul 05, 2025",,On Leave,ug ,excellent
+E0410,Nila,,,HYDERABAD,,,not a date,missing-email,Active,Post Graduate,7
+ E0411 ,Meena,,Marketing,Coimbatore,"₹45,000",8.0,22/07/2024,,left,,7
+ E0412 ,  anitha ,,HR,Madurai,,-2,not a date,,ACTIVE,Diploma,0
+E0413,Divya,,Sales, chennai ,29070,1.4,,missing-email,On Leave,,
+ E0414 ,Kavin,57,IT, chennai ,not disclosed,five,,missing-email,Resigned,Diploma,7
+E0415,Ahalya,,Finance,Bengaluru,,-2,not a date,missing-email,active,Diploma,7
+E0416,  anitha ,,HR,Madurai,82288,-2,,employee416@example.com,left,Post Graduate,0
+E0417,Arun,,it ,Madurai,133973,40,"Mar 15, 2026",missing-email,ACTIVE,ug ,7
+E0418,ROHAN,23,it , chennai ,81746,-2,not a date,employee418@example.com,Resigned,ug ,excellent
+ E0419 ,Arun,50,Marketing,Salem,26828,40,09/06/2025,employee419@example.com,Resigned,Post Graduate,
+ E0420 ,Arun,54,hr,HYDERABAD,-25000,,18/06/2022,missing-email,Resigned,PG,7
+ E0421 ,Vijay,57, sales,Salem,24021,,21/06/2022,employee421@example.com,ACTIVE,UG,
+ E0422 ,Meena,57,Finance,HYDERABAD,79468,,01/01/2025, Employee422@Example.com ,ACTIVE,ug ,excellent
+E0423,Vijay,39,Finance,Madurai,,,"Feb 28, 2021",missing-email,Resigned,Post Graduate,7
+E0424,Vijay,150,it , chennai ,62368,,not a date,,active,Post Graduate,0
+E0425,Nila,-5,HR,Coimbatore,-25000,40,not a date,missing-email,left,PG,0
+ E0426 ,Meena,50,Sales,HYDERABAD,"₹45,000",3.5,2022-10-04, Employee426@Example.com ,left,Diploma,0
+E0427,Priya,150,HR,Madurai,61358,,not a date,employee427@example.com,ACTIVE,UG,
+E0428,ROHAN,50,Human Resources, chennai ,"₹45,000",five,not a date,,Resigned,UG,0
+ E0429 ,Kavin,31,IT,,not disclosed,25.0,, Employee429@Example.com ,active,Diploma,1.1
+E0430,Meena,thirty,,Chennai,,40,not a date,,Resigned,UG,7
+E0431,Divya,,it ,Coimbatore,26380,7.1,2025-03-04,,Left,ug ,
+ E0432 ,  anitha ,150,hr,Bengaluru,92694,40,"Feb 16, 2025", Employee432@Example.com ,Left,ug ,7
+E0433,Ahalya,thirty,FINANCE,Bengaluru,"₹45,000",five,not a date,,,,
+E0434,Meena,54,IT,HYDERABAD,"₹45,000",40,08/09/2022, Employee434@Example.com ,left,Post Graduate,1.2
+ E0435 ,Vijay,23,hr,Chennai,129388,five,"Jul 23, 2025",missing-email,active,,
+E0436,Meena,32,Sales,Coimbatore,74558,five,not a date,,Left,PG,excellent
+E0437,Divya,150,Marketing,,"₹45,000",,not a date,,left,Post Graduate,excellent
+E0438,Arun,-5,Finance,Coimbatore,,0.3,2025-07-30, Employee438@Example.com ,Left,ug ,excellent
+ E0439 ,Sanjay,-5,HR,,"₹45,000",10.5,07/12/2021,,Left,PG,7
+E0440,Sanjay,24, sales,,"₹45,000",five,,missing-email,,PG,excellent
+ E0441 ,Vijay,thirty,Marketing,Bengaluru,-25000,40,not a date,employee441@example.com,,,
+E0442,Meena,150, sales,HYDERABAD,,five,"Feb 05, 2026",,Resigned,ug ,
+ E0443 ,Sanjay,-5,it ,Madurai,,,not a date,employee443@example.com,Left,Post Graduate,1.2
+,Arun,-5,hr,Madurai,not disclosed,0.8,not a date,employee444@example.com,,Diploma,0
+E0445,Kavin,-5,, chennai ,not disclosed,16.7,not a date,,Active,Post Graduate,1.4
+E0446,Kavin,,IT,,not disclosed,12.5,"Nov 12, 2021",missing-email,On Leave,UG,7
+E0447,Divya,thirty,IT,Coimbatore,-25000,40,09/01/2023, Employee447@Example.com ,On Leave,ug ,7
+ E0448 ,Rahul,54, sales,Coimbatore,134019,five,2026-04-17,employee448@example.com,On Leave,UG,2.6
+ E0449 ,Ahalya,30,it ,Coimbatore,"₹45,000",five,"Nov 25, 2025",missing-email,On Leave,ug ,excellent
+E0450,Nila,60,Sales,HYDERABAD,65252,,"Dec 10, 2025",employee450@example.com,ACTIVE,Post Graduate,0
+E0451,Meena,thirty, sales, chennai ,-25000,,2021-02-17,missing-email,Active,Diploma,excellent
+E0452,Vijay,43,,Madurai,-25000,14.3,"Jul 18, 2023", Employee452@Example.com ,Resigned,Diploma,excellent
+E0453,Priya,thirty, sales,HYDERABAD,-25000,,"Aug 13, 2025",,active,UG,
+ E0454 ,Vijay,150,Finance,HYDERABAD,68404,five,,,,,7
+E0455,Arun,,Finance,,83539,five,,employee455@example.com,Active,,excellent
+E0456,Rahul,thirty,it ,Bengaluru,125117,-2,, Employee456@Example.com ,left,Diploma,
+E0457,Ahalya,150, sales,,-25000,40,2021-01-05,missing-email,left,Post Graduate,0
+E0458,Rahul,51,hr,HYDERABAD,not disclosed,40,not a date, Employee458@Example.com ,On Leave,PG,0
+E0459,  anitha ,23,hr, chennai ,56356,,2024-12-19,missing-email,Left,Post Graduate,3.2
+E0460,Arun,,,,142737,five,2022-01-04,missing-email,active,Post Graduate,7
+ E0461 ,Meena,150,hr, chennai ,"₹45,000",4.5,,missing-email,active,Post Graduate,
+E0462,ROHAN,32,HR,Salem,"₹45,000",17.0,"Jun 12, 2024", Employee462@Example.com ,On Leave,UG,7
+E0463,Nila,150, sales, chennai ,,five,15/04/2024,,left,UG,excellent
+E0464,Nila,150,Marketing,Coimbatore,73411,5.8,,employee464@example.com,left,Post Graduate,2.6
+E0465,Ahalya,,Finance,Salem,,40,,,ACTIVE,UG,7
+E0466,Nila,-5,, chennai ,66061,five,2022-07-31, Employee466@Example.com ,left,UG,2.6
+E0467,Sanjay,-5,it ,Madurai,not disclosed,-2,"Dec 16, 2025",missing-email,Resigned,Diploma,excellent
+E0468,ROHAN,22,Finance,HYDERABAD,not disclosed,11.9,09/10/2024,,active,,excellent
+E0469,Sanjay,49,Sales,Madurai,"₹45,000",-2,04/03/2023,employee469@example.com,,UG,1.9
+ E0470 ,Sanjay,,,Madurai,59738,40,"Jun 05, 2026",employee470@example.com,Active,PG,7
+E0471,Vijay,thirty,Human Resources, chennai ,,five,, Employee471@Example.com ,ACTIVE,Diploma,
+ E0472 ,  anitha ,,Marketing,Chennai,not disclosed,five,not a date,employee472@example.com,Resigned,ug ,7
+ E0473 ,Divya,28,FINANCE,,-25000,12.9,16/12/2025,employee473@example.com,Resigned,UG,0
+E0474,  anitha ,26,Marketing, chennai ,77147,,"Dec 03, 2021",missing-email,Active,ug ,2.7
+E0475,Arun,-5,hr,,"₹45,000",-2,2025-09-01,missing-email,active,,2.8
+ E0476 ,Vijay,26,Marketing,HYDERABAD,61062,,not a date,employee476@example.com,active,UG,excellent
+ E0477 ,Divya,150,Finance,HYDERABAD,not disclosed,,,employee477@example.com,active,Diploma,3.6
+E0478,Nila,-5,it ,Bengaluru,68457,0.3,29/04/2024, Employee478@Example.com ,On Leave,ug ,7
+E0479,Nila,,Human Resources,Coimbatore,,40,"Nov 17, 2023",missing-email,,Diploma,0
+ E0480 ,Arun,thirty,IT,Madurai,,five,2025-10-25,,active,Diploma,7
+E0481,Sanjay,59,IT,Chennai,not disclosed,-2,2021-11-29,,Left,,excellent
+ E0482 ,Ahalya,150,FINANCE, chennai ,,10.0,2023-01-14,employee482@example.com,ACTIVE,Diploma,excellent
+E0483,Arun,44,Human Resources,Madurai,-25000,-2,12/01/2025,missing-email,Active,PG,4.4
+E0484,Vijay,150, sales, chennai ,,,"Jan 28, 2023", Employee484@Example.com ,active,PG,
+E0485,Meena,thirty,Human Resources,Bengaluru,-25000,,2026-03-02, Employee485@Example.com ,Left,UG,0
+E0486,Nila,thirty, sales,Bengaluru,47425,40,,employee486@example.com,,Post Graduate,0
+E0487,Arun,54,IT,,"₹45,000",40,,employee487@example.com,Left,ug ,7
+E0488,Vijay,,HR,,not disclosed,2.1,not a date,missing-email,Resigned,ug ,7
+ E0489 ,Kavin,150,it , chennai ,"₹45,000",40,"Apr 24, 2022",employee489@example.com,left,PG,1.4
+E0490,Vijay,thirty,Human Resources,Salem,,-2,"Sep 12, 2022", Employee490@Example.com ,Active,Diploma,0
+E0491,ROHAN,thirty,IT,,81866,,not a date, Employee491@Example.com ,Left,Post Graduate,excellent
+E0492,Ahalya,-5,Sales,Coimbatore,,40,not a date,,ACTIVE,Diploma,4.8
+ E0493 ,Vijay,-5,HR,Chennai,"₹45,000",40,,missing-email,ACTIVE,PG,0
+ E0494 ,Kavin,thirty,Sales,,,23.7,not a date, Employee494@Example.com ,left,UG,excellent
+ E0495 ,  anitha ,23,FINANCE, chennai ,,40,05/08/2022, Employee495@Example.com ,,UG,2.5
+E0496,Priya,150,IT,Salem,120525,40,2023-09-07,,On Leave,,
+ E0497 ,Kavin,-5, sales,Madurai,85860,-2,2022-02-18, Employee497@Example.com ,Resigned,Post Graduate,7
+E0498,Priya,50, sales,Madurai,57737,40,"Dec 12, 2022",,ACTIVE,Post Graduate,7
+E0499,Nila,32,it , chennai ,71583,,19/12/2025,missing-email,Left,ug ,excellent
+ E0500 ,Ahalya,28,hr,,-25000,,02/06/2022,employee500@example.com,On Leave,Diploma,
+ E0501 ,Kavin,46,hr,Madurai,35031,-2,not a date,,,PG,0
+E0502,Meena,31,Human Resources,,-25000,40,2021-12-11,employee502@example.com,Resigned,PG,1.9
+E0503,Vijay,150,HR,Chennai,88534,16.6,"Mar 11, 2023",,On Leave,PG,0
+E0504,Kavin,36,Marketing,Coimbatore,22204,-2,08/08/2025,employee504@example.com,ACTIVE,UG,2.7
+E0505,Rahul,thirty,Sales,Coimbatore,not disclosed,40,05/09/2021, Employee505@Example.com ,Active,ug ,3.6
+E0506,Divya,150,it ,,28652,five,2023-01-26,employee506@example.com,active,,excellent
+E0507,Sanjay,31,hr,Bengaluru,70930,,12/11/2022,missing-email,Active,Post Graduate,7
+ E0508 ,Arun,53, sales,Madurai,not disclosed,17.6,2022-04-22,employee508@example.com,active,UG,7
+E0509,Meena,,Sales,Chennai,46789,five,not a date,missing-email,On Leave,,4.3
+E0510,Rahul,-5,Human Resources,,not disclosed,,30/06/2025,,Active,UG,4.5
+E0511,Kavin,24, sales,,,five,30/01/2024, Employee511@Example.com ,left,PG,
+ E0512 ,Divya,thirty, sales,Coimbatore,-25000,,not a date,employee512@example.com,,ug ,excellent
+E0513,ROHAN,150,Human Resources,Salem,"₹45,000",-2,, Employee513@Example.com ,On Leave,ug ,0
+E0514,Ahalya,thirty,FINANCE,Bengaluru,-25000,40,05/02/2022, Employee514@Example.com ,,ug ,7
+E0515,Divya,150,it ,Bengaluru,"₹45,000",22.1,, Employee515@Example.com ,,,3.8
+ E0516 ,Vijay,48,Finance,Coimbatore,"₹45,000",-2,2024-07-16, Employee516@Example.com ,left,PG,
+E0517,Divya,21,it ,Salem,72122,14.7,28/11/2023,,On Leave,Post Graduate,7
+E0518,Sanjay,27,HR, chennai ,-25000,40,"Dec 02, 2024",employee518@example.com,active,,7
+ E0519 ,Vijay,,IT,Coimbatore,,,24/09/2023,employee519@example.com,Left,UG,
+ E0520 ,Ahalya,150,,Madurai,46624,40,"Sep 13, 2021",employee520@example.com,,ug ,3.7
+ E0521 ,Sanjay,-5,Sales,HYDERABAD,19894,5.3,,missing-email,Resigned,Diploma,0
+E0522,Sanjay,-5, sales,Coimbatore,not disclosed,-2,"Nov 24, 2025",employee522@example.com,Active,Post Graduate,excellent
+E0523,Rahul,-5,HR,Bengaluru,not disclosed,,"Jan 07, 2021",employee523@example.com,,PG,7
+E0524,Arun,-5,Human Resources,Chennai,82406,21.4,not a date,missing-email,ACTIVE,ug ,0
+E0525,ROHAN,,hr, chennai ,"₹45,000",,14/05/2022, Employee525@Example.com ,On Leave,,0
+E0526,ROHAN,,Sales,Madurai,82429,,,,active,,7
+E0527,Kavin,,,Bengaluru,76602,7.3,"Jul 02, 2021", Employee527@Example.com ,ACTIVE,Diploma,excellent
+E0528,Divya,21,HR,,"₹45,000",-2,22/06/2025, Employee528@Example.com ,Resigned,PG,0
+E0529,ROHAN,52,hr,Salem,not disclosed,7.1,"May 11, 2024",missing-email,,,7
+ E0530 ,ROHAN,39, sales,Salem,40014,,2024-12-05, Employee530@Example.com ,ACTIVE,UG,0
+E0531,Priya,-5,Sales,Chennai,120593,-2,02/08/2022,,left,ug ,excellent
+E0532,Vijay,49,hr,Coimbatore,,,2025-02-14,missing-email,On Leave,ug ,
+E0533,  anitha ,-5, sales,Madurai,142223,five,"Aug 24, 2024",,Active,UG,7
+E0534,Kavin,,hr, chennai ,"₹45,000",40,not a date,missing-email,active,ug ,excellent
+E0535,ROHAN,thirty, sales,Salem,55877,five,not a date,,ACTIVE,UG,excellent
+E0536,  anitha ,46,hr,Coimbatore,not disclosed,five,2023-09-28,employee536@example.com,ACTIVE,UG,0
+ E0537 ,Nila,,Human Resources,HYDERABAD,72061,14.1,2021-06-23,missing-email,Active,PG,excellent
+E0538,Kavin,150,Marketing,Chennai,84283,-2,, Employee538@Example.com ,Left,UG,0
+ E0539 ,Divya,thirty,Marketing,Coimbatore,-25000,five,2023-05-15,missing-email,On Leave,ug ,0
+ E0540 ,Priya,thirty,Sales,HYDERABAD,29248,,"Jan 03, 2025", Employee540@Example.com ,On Leave,UG,
+E0541,Arun,25,it ,Chennai,46833,8.2,"Jan 14, 2023",missing-email,active,ug ,
+E0542,Rahul,45,,Salem,89006,five,not a date,employee542@example.com,left,Post Graduate,1.4
+ E0543 ,Vijay,150,Human Resources,Salem,65242,five,,,Active,,
+E0544,Sanjay,150,Human Resources,,26929,-2,19/12/2024,,Resigned,ug ,0
+E0545,Kavin,54,hr,Madurai,60001,-2,"Apr 13, 2023",employee545@example.com,active,PG,3.3
+ E0546 ,Ahalya,150,,Madurai,75572,,not a date,employee546@example.com,Active,,excellent
+E0547,Rahul,36,Human Resources,Bengaluru,,five,25/01/2026, Employee547@Example.com ,Active,ug ,
+E0548,  anitha ,-5,,HYDERABAD,-25000,-2,27/06/2022,employee548@example.com,Left,Diploma,excellent
+E0549,Ahalya,thirty,Sales,Coimbatore,-25000,40,"Nov 04, 2022",missing-email,On Leave,Diploma,7
+ E0550 ,Divya,52,Sales,Salem,58294,22.8,"Nov 15, 2021", Employee550@Example.com ,Resigned,ug ,excellent
+E0551,Arun,150,it ,Chennai,,40,"Jan 12, 2021", Employee551@Example.com ,ACTIVE,ug ,0
+E0552,ROHAN,31,Human Resources,Bengaluru,82822,24.6,not a date,,On Leave,Post Graduate,7
+E0553,Rahul,29, sales,Chennai,,8.6,21/04/2025,employee553@example.com,On Leave,ug ,7
+E0554,Divya,,IT,,,6.2,"Nov 05, 2025", Employee554@Example.com ,active,,excellent
+ E0555 ,Ahalya,thirty,,Madurai,56987,3.3,15/07/2022, Employee555@Example.com ,active,UG,excellent
+E0556,Meena,,Sales,Salem,"₹45,000",40,2024-08-11,missing-email,Resigned,,0
+E0557,Kavin,24, sales,Coimbatore,26832,,not a date,missing-email,left,ug ,0
+E0558,  anitha ,27,it ,Madurai,-25000,-2,,missing-email,On Leave,UG,
+ E0559 ,ROHAN,59,Finance,Madurai,45287,11.1,,missing-email,ACTIVE,UG,7
+ E0560 ,Divya,thirty,FINANCE,Chennai,"₹45,000",15.7,not a date,employee560@example.com,ACTIVE,Post Graduate,
+E0561,Sanjay,thirty,FINANCE,HYDERABAD,44928,40,,employee561@example.com,On Leave,ug ,
+ E0562 ,ROHAN,,it , chennai ,not disclosed,five,"Jun 15, 2022", Employee562@Example.com ,ACTIVE,PG,
+E0563,Kavin,23,HR,Bengaluru,,6.8,08/08/2024, Employee563@Example.com ,Resigned,Diploma,excellent
+E0564,Meena,150,Human Resources,Salem,95305,15.6,"Aug 15, 2025", Employee564@Example.com ,Active,Post Graduate,excellent
+E0565,Sanjay,45,IT,HYDERABAD,"₹45,000",-2,,,Resigned,PG,4.6
+ E0566 ,Priya,150,Human Resources,HYDERABAD,,,"Aug 19, 2024",employee566@example.com,Left,UG,7
+ E0567 ,Ahalya,50,hr,Chennai,33137,13.2,2024-05-20,,Active,PG,2.0
+E0568,Sanjay,30,,,21538,-2,2025-10-13, Employee568@Example.com ,ACTIVE,Diploma,
+E0569,Divya,thirty,Human Resources,Chennai,88112,20.6,"Jan 21, 2024",employee569@example.com,Left,UG,7
+E0570,Kavin,43,it ,Bengaluru,49607,9.6,05/10/2023,employee570@example.com,active,Post Graduate,0
+E0571,  anitha ,thirty,it ,Salem,"₹45,000",five,not a date, Employee571@Example.com ,Resigned,UG,7
+ E0572 ,ROHAN,37,Finance, chennai ,,,18/10/2022,,active,Post Graduate,0
+E0573,  anitha ,-5,Sales,Coimbatore,"₹45,000",40,not a date,,Left,ug ,7
+E0574,Kavin,150,IT,Bengaluru,78323,40,, Employee574@Example.com ,Active,PG,5.0
+ E0575 ,Priya,150,FINANCE,HYDERABAD,53020,-2,05/10/2025,missing-email,Left,PG,4.3
+E0576,Vijay,28,hr,,69474,40,2023-02-01,employee576@example.com,ACTIVE,UG,
+ E0577 ,Divya,26,Sales,,,40,03/03/2025,missing-email,Active,Diploma,1.4
+E0578,Nila,,it ,Madurai,149935,40,not a date,missing-email,On Leave,PG,2.1
+E0579,Sanjay,,Finance,Bengaluru,not disclosed,40,,employee579@example.com,On Leave,ug ,0
+E0580,Nila,-5,hr, chennai ,46416,-2,27/02/2021,missing-email,Left,Post Graduate,0
+E0581,Ahalya,,Sales, chennai ,-25000,five,2024-03-02,,left,UG,0
+ E0582 ,ROHAN,,FINANCE, chennai ,71202,,2024-12-10,missing-email,ACTIVE,UG,7
+E0583,  anitha ,51,Marketing,Coimbatore,,17.1,2025-12-18, Employee583@Example.com ,ACTIVE,Post Graduate,excellent
+E0584,Vijay,150,, chennai ,-25000,40,not a date, Employee584@Example.com ,ACTIVE,Post Graduate,7
+E0585,Meena,,,Bengaluru,"₹45,000",-2,"Dec 14, 2021", Employee585@Example.com ,Resigned,UG,7
+ E0586 ,Divya,-5,,Coimbatore,133879,40,"Mar 23, 2021",missing-email,,Diploma,excellent
+E0587,Nila,41,HR,Coimbatore,"₹45,000",6.6,2024-06-25, Employee587@Example.com ,active,Diploma,excellent
+E0588,Kavin,,Human Resources, chennai ,80591,40,,,On Leave,ug ,0
+E0589,Priya,-5,Finance,Coimbatore,47870,18.5,not a date,employee589@example.com,Left,Diploma,excellent
+ E0590 ,  anitha ,-5,Human Resources, chennai ,,1.4,not a date,missing-email,ACTIVE,UG,2.1
+ E0591 ,Priya,150,IT,Bengaluru,,20.8,not a date,missing-email,On Leave,ug ,
+ E0592 ,  anitha ,43,Sales,Chennai,not disclosed,five,2022-02-11, Employee592@Example.com ,ACTIVE,ug ,7
+E0593,Vijay,28,hr,Chennai,not disclosed,40,16/04/2026,,Left,,7
+ E0594 ,Rahul,thirty,HR,Salem,-25000,,,employee594@example.com,left,Post Graduate,4.3
+E0595,Sanjay,150, sales,Bengaluru,-25000,40,"Dec 08, 2023",employee595@example.com,ACTIVE,Post Graduate,excellent
+E0596,Ahalya,-5,,HYDERABAD,57125,15.5,2021-06-29,employee596@example.com,active,ug ,excellent
+E0597,Sanjay,27,FINANCE,HYDERABAD,not disclosed,-2,not a date, Employee597@Example.com ,active,PG,4.4
+ E0598 ,Divya,150,Marketing,Madurai,-25000,five,"Aug 04, 2022",missing-email,Active,ug ,1.1
+E0599,Vijay,thirty,Marketing,HYDERABAD,,40,,,Active,Post Graduate,7
+E0600,Meena,-5,FINANCE,Coimbatore,,,2023-10-30,,Resigned,PG,1.4
+E0601,ROHAN,21,Human Resources,,not disclosed,17.7,not a date,employee601@example.com,Resigned,PG,
+E0602,Vijay,thirty,hr, chennai ,-25000,-2,19/06/2021,employee602@example.com,,Post Graduate,
+E0603,Divya,,hr,,"₹45,000",,2023-03-12,,active,PG,7
+E0604,Rahul,,Sales,,65135,five,,employee604@example.com,Active,PG,0
+E0605,Ahalya,thirty,Sales,Coimbatore,not disclosed,,"Mar 19, 2022",employee605@example.com,Left,UG,
+E0606,Divya,150,IT,Salem,-25000,-2,not a date,,ACTIVE,PG,0
+E0607,ROHAN,thirty,it ,Bengaluru,,40,not a date,,active,Post Graduate,
+ E0608 ,Vijay,-5,Marketing,Bengaluru,,five,,,On Leave,UG,0
+E0609,Rahul,-5,HR,Bengaluru,,-2,"Oct 25, 2021",employee609@example.com,Left,ug ,0
+E0610,Vijay,35,Marketing, chennai ,not disclosed,,,missing-email,On Leave,,0
+ E0611 ,Priya,,,Bengaluru,"₹45,000",-2,2023-05-13,employee611@example.com,On Leave,PG,0
+ E0612 ,  anitha ,22,HR, chennai ,,40,,employee612@example.com,,UG,7
+ E0613 ,Meena,-5,Finance,,108655,-2,,employee613@example.com,active,Diploma,4.8
+E0614,ROHAN,22,Sales,Chennai,20725,40,09/04/2022,employee614@example.com,Active,Diploma,4.5
+E0615,Sanjay,-5,hr,Coimbatore,-25000,40,07/07/2022, Employee615@Example.com ,Resigned,PG,7
+E0616,Meena,thirty,it , chennai ,82642,-2,not a date, Employee616@Example.com ,Resigned,Post Graduate,
+ E0617 ,Kavin,34,Sales,Madurai,,,not a date, Employee617@Example.com ,Resigned,Diploma,
+E0618,Kavin,,it ,HYDERABAD,"₹45,000",five,18/11/2023,,ACTIVE,,excellent
+ E0619 ,  anitha ,150,FINANCE,,,40,"Jan 19, 2022",employee619@example.com,Resigned,Diploma,excellent
+ E0620 ,Rahul,150,hr,Chennai,"₹45,000",five,2022-11-15,,On Leave,,
+E0621,Arun,150,hr,Madurai,not disclosed,five,2023-06-07,employee621@example.com,active,UG,excellent
+E0622,ROHAN,38,it ,,,40,not a date,employee622@example.com,Left,PG,0
+E0623,Rahul,-5,Marketing, chennai ,,five,"Sep 04, 2023", Employee623@Example.com ,ACTIVE,PG,7
+E0624,Ahalya,21,,Bengaluru,-25000,-2,2025-12-10, Employee624@Example.com ,,Post Graduate,
+E0625,Meena,51,Sales,,,,27/03/2025,employee625@example.com,,,excellent
+E0626,Meena,-5,Marketing,Chennai,113496,-2,"Dec 25, 2024",,ACTIVE,ug ,
+ E0627 ,  anitha ,43,Marketing,,-25000,5.2,not a date,employee627@example.com,ACTIVE,Diploma,0
+ E0628 ,Sanjay,thirty,,Bengaluru,-25000,five,"Dec 02, 2023",employee628@example.com,left,UG,7
+E0629,Meena,50,HR,,-25000,,not a date,missing-email,Active,PG,excellent
+ E0630 ,Meena,150,FINANCE,Coimbatore,"₹45,000",8.8,"Apr 13, 2021", Employee630@Example.com ,active,,
+ E0631 ,Kavin,48,it ,Salem,94232,-2,not a date,,left,PG,0
+ E0632 ,Vijay,29,Marketing,,,,"Sep 09, 2022",employee632@example.com,ACTIVE,ug ,7
+ E0633 ,Divya,thirty, sales,,not disclosed,-2,"Aug 18, 2023",,Active,Post Graduate,7
+E0634,Divya,thirty,Human Resources,HYDERABAD,not disclosed,,,missing-email,Active,ug ,excellent
+E0635,Rahul,50,HR, chennai ,55412,five,"Jul 19, 2021",,Active,,
+E0636,Kavin,,HR,Coimbatore,-25000,15.7,not a date, Employee636@Example.com ,active,Post Graduate,
+E0637,Nila,27,it ,,134343,-2,not a date, Employee637@Example.com ,active,ug ,1.6
+ E0638 ,Meena,30,Marketing, chennai ,not disclosed,five,not a date,,,Diploma,7
+E0639,Vijay,150,it ,Chennai,,40,,,,UG,0
+ E0640 ,ROHAN,50,FINANCE,HYDERABAD,138153,-2,, Employee640@Example.com ,active,PG,0
+ E0641 ,Vijay,150,Marketing,Coimbatore,56482,40,not a date,,left,PG,excellent
+ E0642 ,  anitha ,thirty,Finance,Bengaluru,123846,,2022-04-20,employee642@example.com,Left,,4.2
+ E0643 ,Vijay,150,Marketing,Chennai,not disclosed,6.3,2025-10-01,,ACTIVE,Diploma,7
+ E0644 ,Nila,29,IT, chennai ,-25000,-2,07/04/2022, Employee644@Example.com ,Active,,4.8
+E0645,Arun,,,,"₹45,000",14.2,29/11/2022,,Resigned,Diploma,excellent
+E0646,Kavin,150,Finance,Madurai,130069,,,missing-email,Active,Post Graduate,3.2
+E0647,Vijay,-5,IT,Salem,120347,,"Jun 06, 2026",employee647@example.com,On Leave,Post Graduate,1.2
+E0648,Nila,-5,Sales,Chennai,-25000,,2022-11-17, Employee648@Example.com ,Left,ug ,excellent
+E0649,Meena,-5,HR, chennai ,not disclosed,18.5,,,Active,ug ,0
+E0650,  anitha ,-5,HR,,77704,,,,Active,ug ,
+E0651,Rahul,thirty, sales,Chennai,"₹45,000",five,"Jan 25, 2026",missing-email,Left,PG,1.4
+ E0652 ,Priya,47,it ,Chennai,21952,6.2,2021-06-06, Employee652@Example.com ,Resigned,Diploma,
+ E0653 ,ROHAN,thirty,Sales,Madurai,82744,3.1,"Jun 06, 2021", Employee653@Example.com ,,,0
+ E0654 ,Divya,39,,,-25000,five,2023-10-29,employee654@example.com,left,UG,
+E0655,Sanjay,-5,hr,Chennai,-25000,,15/03/2021,,,UG,excellent
+ E0656 ,Ahalya,45,IT,Madurai,not disclosed,9.6,not a date,,On Leave,PG,excellent
+E0657,Rahul,24,,HYDERABAD,not disclosed,-2,"Mar 05, 2026", Employee657@Example.com ,On Leave,,4.7
+E0658,Divya,150,Finance,Madurai,"₹45,000",five,,missing-email,ACTIVE,UG,0
+E0659,Meena,thirty,Marketing,Chennai,not disclosed,five,"Jul 16, 2022",missing-email,active,Diploma,0
+E0660,Nila,150,IT,HYDERABAD,"₹45,000",0.2,"Jun 02, 2026",,Active,Post Graduate,0
+E0661,  anitha ,-5,Human Resources,Coimbatore,,-2,not a date, Employee661@Example.com ,Active,PG,1.5
+E0662,  anitha ,150,Sales,Chennai,not disclosed,17.9,"May 04, 2026",missing-email,Left,Diploma,excellent
+E0663,Divya,thirty,it ,Coimbatore,,-2,not a date,employee663@example.com,Active,Diploma,0
+E0664,Vijay,47,HR, chennai ,-25000,,2023-01-25,missing-email,Left,Diploma,excellent
+E0665,Vijay,,FINANCE,HYDERABAD,24272,40,2025-04-11,employee665@example.com,active,Post Graduate,excellent
+E0666,Rahul,thirty,IT,,-25000,five,24/08/2022,missing-email,Resigned,,
+ E0667 ,Divya,-5,IT,Coimbatore,not disclosed,-2,not a date, Employee667@Example.com ,Left,ug ,
+E0668,Arun,-5,Human Resources,,107540,40,01/11/2023,,Active,PG,0
+E0669,Nila,51,FINANCE,HYDERABAD,44475,20.8,14/11/2024,employee669@example.com,On Leave,Diploma,excellent
+E0670,Rahul,36,Finance,HYDERABAD,not disclosed,15.2,2025-01-19,employee670@example.com,,,0
+E0671,  anitha ,29,Finance,HYDERABAD,66090,3.8,,missing-email,Resigned,ug ,excellent
+ E0672 ,Rahul,, sales,Bengaluru,-25000,five,,,ACTIVE,PG,
+ E0673 ,Arun,-5,Human Resources,Salem,-25000,7.1,"Aug 13, 2022",,left,Post Graduate,
+E0674,Sanjay,38,HR,Bengaluru,,0.7,, Employee674@Example.com ,Left,Diploma,excellent
+ E0675 ,Kavin,thirty,Human Resources,Salem,-25000,22.9,not a date,,active,Diploma,
+E0676,Divya,,hr,Bengaluru,"₹45,000",five,2024-10-08,missing-email,Left,Post Graduate,3.6
+E0677,Sanjay,,it ,Coimbatore,48863,40,not a date, Employee677@Example.com ,Left,,excellent
+E0678,Divya,150,Marketing,Madurai,not disclosed,,not a date,missing-email,Resigned,ug ,
+E0679,Arun,-5,hr,Salem,84254,-2,not a date,missing-email,On Leave,ug ,7
+E0680,Divya,150,Marketing,Madurai,-25000,,not a date,,Active,Diploma,
+ E0681 ,Meena,thirty,HR,Salem,54289,40,not a date,,,,1.9
+E0682,Vijay,150,FINANCE,Chennai,not disclosed,5.2,,missing-email,Active,ug ,0
+E0683,Arun,43,it ,Coimbatore,,,,,Resigned,Diploma,excellent
+ E0684 ,Ahalya,36,IT,Madurai,23250,40,28/03/2021,missing-email,Active,Diploma,7
+E0685,ROHAN,29,,HYDERABAD,88778,40,2021-02-11, Employee685@Example.com ,Left,Post Graduate,0
+ E0686 ,Meena,53, sales, chennai ,-25000,11.5,,,Left,ug ,7
+ E0687 ,Arun,thirty,,Chennai,82124,40,"May 03, 2026",employee687@example.com,On Leave,PG,7
+E0688,Sanjay,27,,Madurai,,20.2,, Employee688@Example.com ,active,PG,7
+ E0689 ,ROHAN,,,HYDERABAD,-25000,-2,05/09/2025,employee689@example.com,Active,Diploma,excellent
+E0690,Divya,150,hr,HYDERABAD,-25000,40,,employee690@example.com,ACTIVE,UG,1.6
+ E0691 ,Ahalya,150,it , chennai ,"₹45,000",five,25/09/2023,,On Leave,Diploma,0
+E0692,Vijay,thirty,it ,,,,,missing-email,,PG,
+ E0693 ,ROHAN,54,IT,Madurai,-25000,,2023-08-22,employee693@example.com,active,Post Graduate,2.8
+ E0694 ,Meena,150, sales,Salem,-25000,,2022-12-08, Employee694@Example.com ,Resigned,Post Graduate,0
+E0695,Kavin,55,Human Resources,HYDERABAD,not disclosed,,28/07/2022,missing-email,Resigned,Post Graduate,excellent
+E0696,Priya,38,Finance,Chennai,,,2022-03-20, Employee696@Example.com ,Resigned,UG,4.6
+ E0697 ,Divya,150,Finance,Bengaluru,-25000,7.6,,,left,Post Graduate,2.3
+E0698,Divya,,Marketing,Bengaluru,"₹45,000",40,"Nov 24, 2024",employee698@example.com,ACTIVE,UG,7
+E0699,Arun,,HR,Salem,-25000,4.5,not a date,missing-email,Resigned,UG,0
+ E0700 ,  anitha ,thirty,HR,Chennai,24394,40,2023-03-27,missing-email,,Post Graduate,7
+E0701,Divya,51,hr,Chennai,-25000,,16/12/2024, Employee701@Example.com ,,,0
+E0702,Ahalya,-5,Marketing,HYDERABAD,-25000,-2,13/01/2026,missing-email,On Leave,,3.7
+E0703,  anitha ,,HR,Salem,,-2,31/05/2024,,left,Post Graduate,0
+ E0704 ,Vijay,57,Marketing,Chennai,40569,2.9,2022-01-09, Employee704@Example.com ,ACTIVE,UG,0
+E0705,Divya,26,it ,Coimbatore,60341,,11/03/2025,missing-email,left,PG,7
+ E0706 ,Vijay,-5,Sales,Bengaluru,-25000,40,2022-06-26,,,,
+E0707,Nila,150,IT,Salem,47611,-2,"Mar 01, 2022",missing-email,Left,ug ,2.0
+ E0708 ,ROHAN,150,hr,Bengaluru,not disclosed,five,,employee708@example.com,Active,PG,0
+E0709,Sanjay,,,HYDERABAD,,,2025-03-21,,On Leave,ug ,0
+ E0710 ,Divya,-5,it ,HYDERABAD,-25000,,,employee710@example.com,Active,PG,0
+E0711,Rahul,,Finance,HYDERABAD,37025,8.3,2026-06-11,missing-email,ACTIVE,ug ,
+E0712,  anitha ,-5,FINANCE,Bengaluru,,,2023-06-14, Employee712@Example.com ,Active,ug ,1.6
+ E0713 ,Priya,56,Sales,Coimbatore,"₹45,000",40,17/12/2024,employee713@example.com,On Leave,Diploma,7
+E0714,Rahul,thirty,Sales,Bengaluru,"₹45,000",five,25/02/2021, Employee714@Example.com ,Active,Post Graduate,7
+E0715,Priya,, sales,Coimbatore,149058,40,"Jul 10, 2021",,left,Diploma,7
+E0716,ROHAN,150,hr,HYDERABAD,"₹45,000",17.1,2023-08-11,missing-email,Active,PG,excellent
+ E0717 ,Meena,45,Marketing, chennai ,"₹45,000",40,2023-05-16,missing-email,,Post Graduate,7
+E0718,Rahul,-5,,Salem,"₹45,000",40,2025-11-18, Employee718@Example.com ,Left,Post Graduate,7
+ E0719 ,Divya,150,Sales,Salem,91849,40,2023-01-22,missing-email,Active,Post Graduate,0
+E0720,ROHAN,43, sales,Madurai,-25000,five,"Aug 17, 2021",employee720@example.com,ACTIVE,UG,
+E0721,Kavin,150,Sales,Bengaluru,"₹45,000",,,,Active,PG,3.4
+E0722,Meena,53,Marketing, chennai ,64272,40,2023-04-01, Employee722@Example.com ,On Leave,UG,excellent
+E0723,ROHAN,thirty,Human Resources,Salem,-25000,,not a date,missing-email,Active,Post Graduate,
+E0724,  anitha ,39,Sales, chennai ,124740,,"Jul 17, 2022",,Left,PG,0
+ E0725 ,Nila,thirty,HR,Bengaluru,not disclosed,five,,,Resigned,Diploma,7
+E0726,Vijay,50,hr,,not disclosed,40,not a date,employee726@example.com,Resigned,UG,excellent
+E0727,Rahul,-5,,HYDERABAD,79178,,, Employee727@Example.com ,On Leave,UG,0
+E0728,Kavin,,,Salem,"₹45,000",15.2,not a date, Employee728@Example.com ,ACTIVE,PG,7
+E0729,Nila,-5,FINANCE,HYDERABAD,not disclosed,-2,2024-07-14,missing-email,Left,ug ,7
+E0730,Kavin,, sales,HYDERABAD,-25000,-2,not a date, Employee730@Example.com ,On Leave,ug ,1.8
+E0731,Arun,,Human Resources,,not disclosed,40,2026-04-21,missing-email,active,Diploma,excellent
+ E0732 ,Priya,thirty,it , chennai ,"₹45,000",,not a date, Employee732@Example.com ,Active,PG,7
+E0733,Arun,150,Finance, chennai ,"₹45,000",12.5,,missing-email,Active,,7
+ E0734 ,Sanjay,150,HR,Salem,-25000,five,,employee734@example.com,On Leave,,0
+E0735,Priya,53,Sales,HYDERABAD,133355,-2,,employee735@example.com,Resigned,PG,7
+ E0736 ,Meena,34,Finance,Bengaluru,"₹45,000",40,22/03/2025,missing-email,,,0
+ E0737 ,ROHAN,,Human Resources,Salem,-25000,-2,"Feb 29, 2024",missing-email,,,0
+E0738,Vijay,,HR,Salem,-25000,15.9,09/10/2025,missing-email,Resigned,,excellent
+ E0739 ,Sanjay,thirty,Marketing,Coimbatore,65116,five,,missing-email,,PG,7
+ E0740 ,Sanjay,-5,Finance,Chennai,,-2,2024-05-31, Employee740@Example.com ,Left,,1.8
+ E0741 ,Vijay,-5,FINANCE,Madurai,not disclosed,five,2025-11-23,employee741@example.com,Left,Diploma,
+E0742,Arun,35,hr,Coimbatore,137554,-2,"Feb 05, 2024",employee742@example.com,left,UG,
+ E0743 ,Kavin,150,Finance, chennai ,not disclosed,22.0,2022-10-16, Employee743@Example.com ,,PG,excellent
+E0744,  anitha ,150,,,not disclosed,10.7,not a date, Employee744@Example.com ,Active,Diploma,excellent
+E0745,Arun,52,Sales,Salem,not disclosed,-2,"May 03, 2026",missing-email,left,,
+ E0746 ,Rahul,-5,Marketing,Coimbatore,,40,"Oct 10, 2024",employee746@example.com,Left,UG,
+E0747,  anitha ,-5,Human Resources,Bengaluru,"₹45,000",-2,, Employee747@Example.com ,ACTIVE,PG,
+E0748,Meena,60,Finance,Salem,not disclosed,five,not a date,missing-email,Resigned,PG,0
+E0749,Priya,-5,Finance,Salem,"₹45,000",40,not a date,missing-email,Active,,0
+E0750,Nila,39,Finance,Salem,"₹45,000",five,22/02/2025, Employee750@Example.com ,active,UG,0
+E0751,Kavin,150,HR,Bengaluru,71126,40,"May 27, 2022",,left,Post Graduate,0
+E0752,Arun,,FINANCE, chennai ,62538,,25/11/2025,missing-email,,PG,excellent
+ E0753 ,ROHAN,thirty,IT,Coimbatore,,19.3,"Nov 19, 2025",missing-email,Resigned,ug ,0
+ E0754 ,Divya,33,Finance,Chennai,not disclosed,18.7,2021-10-15,,Active,Post Graduate,excellent
+E0755,Kavin,thirty,FINANCE,Coimbatore,-25000,14.4,2025-02-13,employee755@example.com,active,Post Graduate,excellent
+E0756,  anitha ,25,,Bengaluru,"₹45,000",,"Aug 25, 2024",employee756@example.com,,Post Graduate,7
+ E0757 ,Priya,thirty,it ,Madurai,not disclosed,20.7,18/01/2021,missing-email,Resigned,Post Graduate,
+E0758,Nila,43,Sales, chennai ,,,2021-07-26,employee758@example.com,Resigned,Diploma,
+E0759,Sanjay,,hr,HYDERABAD,,,"May 01, 2025",employee759@example.com,Active,ug ,
+E0760,Nila,150,, chennai ,,40,2024-04-23,employee760@example.com,ACTIVE,PG,7
+ E0761 ,Meena,43,FINANCE, chennai ,,5.3,,missing-email,,UG,7
+ E0762 ,Ahalya,-5,it ,Bengaluru,112474,-2,2022-04-15,,Active,PG,
+E0763,  anitha ,,it ,Bengaluru,38378,11.7,, Employee763@Example.com ,On Leave,PG,
+ E0764 ,  anitha ,30,Sales,Salem,65609,19.7,16/10/2023,missing-email,Resigned,UG,0
+E0765,Kavin,22,HR,Bengaluru,55838,five,, Employee765@Example.com ,Left,UG,2.7
+ E0766 ,Priya,150,Sales,Bengaluru,,21.4,not a date,,active,ug ,excellent
+E0767,Kavin,,IT,Madurai,,16.5,not a date,missing-email,left,PG,0
+E0768,Ahalya,50,IT,Coimbatore,-25000,,2024-04-01,,Active,PG,
+ E0769 ,Arun,-5,Finance,Salem,"₹45,000",,,,,UG,excellent
+E0770,Meena,,hr,Bengaluru,"₹45,000",40,2024-09-20,missing-email,On Leave,,excellent
+ E0771 ,Divya,,FINANCE, chennai ,137913,-2,"Sep 16, 2021",missing-email,ACTIVE,ug ,excellent
+E0772,Nila,30,FINANCE,Chennai,,-2,, Employee772@Example.com ,Resigned,Post Graduate,excellent
+E0773,Meena,,HR,HYDERABAD,41710,five,09/04/2022,,left,ug ,7
+E0774,Vijay,-5,, chennai ,53683,five,"Sep 30, 2024", Employee774@Example.com ,Active,ug ,7
+E0775,Meena,150,Human Resources,HYDERABAD,"₹45,000",,"Sep 05, 2025",employee775@example.com,active,,
+E0776,Vijay,,Finance,Madurai,90212,five,,employee776@example.com,,Diploma,excellent
+,Sanjay,, sales,Coimbatore,-25000,23.7,"Feb 21, 2023",employee777@example.com,,Diploma,1.9
+ E0778 ,ROHAN,thirty,it ,Salem,51626,40,2023-05-14,employee778@example.com,Resigned,ug ,0
+E0779,ROHAN,43,Finance,HYDERABAD,,,not a date,missing-email,On Leave,UG,excellent
+ E0780 ,  anitha ,27,Finance,,-25000,five,not a date,employee780@example.com,Active,ug ,7
+E0781,Sanjay,thirty,it ,Bengaluru,23164,23.6,not a date,employee781@example.com,Resigned,Diploma,
+E0782,Nila,38,Marketing,Bengaluru,80057,-2,24/04/2025, Employee782@Example.com ,On Leave,Diploma,
+ E0783 ,Vijay,-5,Finance,Coimbatore,-25000,20.7,2026-02-16,,On Leave,PG,7
+E0784,ROHAN,150,Marketing,Salem,,8.1,,missing-email,ACTIVE,ug ,3.5
+ E0785 ,Kavin,33,it , chennai ,,five,not a date, Employee785@Example.com ,Resigned,PG,2.8
+E0786,Arun,,Human Resources,Chennai,"₹45,000",,18/05/2022,,left,PG,excellent
+E0787,Meena,150,Sales,Salem,,five,,,On Leave,Diploma,
+E0788,Nila,-5,Finance,Bengaluru,-25000,,, Employee788@Example.com ,active,Post Graduate,0
+E0789,Ahalya,150,FINANCE,,"₹45,000",40,not a date,employee789@example.com,Active,Diploma,
+ E0790 ,Arun,25,Marketing,,53031,five,not a date, Employee790@Example.com ,left,Post Graduate,0
+E0791,Rahul,thirty,, chennai ,not disclosed,five,2022-10-07,employee791@example.com,active,Post Graduate,7
+E0792,Kavin,, sales,HYDERABAD,65013,40,2025-02-01,missing-email,On Leave,ug ,
+ E0793 ,Divya,42,IT,Madurai,,-2,2023-10-21, Employee793@Example.com ,Resigned,,0
+E0794,Ahalya,thirty,FINANCE,Chennai,not disclosed,five,"May 02, 2021",employee794@example.com,Active,Diploma,2.5
+ E0795 ,Kavin,-5,Marketing,Coimbatore,,40,, Employee795@Example.com ,Resigned,Post Graduate,7
+ E0796 ,Kavin,,Sales,Coimbatore,not disclosed,five,2025-12-25,missing-email,ACTIVE,UG,excellent
+ E0797 ,Priya,-5,IT,,"₹45,000",five,"May 15, 2021", Employee797@Example.com ,Left,ug ,1.2
+ E0798 ,Rahul,51,Human Resources,,not disclosed,five,not a date, Employee798@Example.com ,Left,Diploma,7
+ E0799 ,Sanjay,150,it ,Chennai,39597,-2,not a date,,Active,PG,0
+E0800,Rahul,thirty,FINANCE,Chennai,61111,1.2,"Apr 07, 2021",,On Leave,,
+E0801,ROHAN,44,IT,,29723,,02/01/2026,missing-email,Left,Post Graduate,3.6
+ E0802 ,Divya,,HR,Coimbatore,48495,-2,not a date, Employee802@Example.com ,ACTIVE,Post Graduate,0
+ E0803 ,Divya,57,it ,Madurai,46853,-2,2023-04-19,,,Diploma,7
+E0804,Nila,,Sales,Coimbatore,29243,,not a date,employee804@example.com,left,,7
+E0805,Sanjay,-5,IT,Coimbatore,92633,40,13/08/2025,employee805@example.com,Active,ug ,2.9
+ E0806 ,ROHAN,150,Human Resources,,30958,,,missing-email,Active,,
+ E0807 ,Arun,34,Marketing,Chennai,-25000,-2,03/03/2026,missing-email,On Leave,ug ,0
+E0808,Vijay,,FINANCE,Salem,-25000,40,not a date,employee808@example.com,ACTIVE,PG,0
+ E0809 ,Ahalya,28,Human Resources, chennai ,not disclosed,five,15/01/2025,missing-email,Left,UG,excellent
+E0810,  anitha ,thirty, sales,Salem,49428,five,2021-06-01,,On Leave,ug ,
+E0811,Priya,-5,it ,Coimbatore,"₹45,000",,,missing-email,On Leave,Diploma,0
+E0812,  anitha ,-5,Sales,Madurai,"₹45,000",five,11/10/2025,,On Leave,ug ,7
+E0813,Arun,150,IT,Madurai,-25000,40,, Employee813@Example.com ,Resigned,ug ,7
+E0814,Arun,,IT,Bengaluru,"₹45,000",40,,,ACTIVE,,excellent
+E0815,Divya,150,,Madurai,"₹45,000",,, Employee815@Example.com ,ACTIVE,ug ,
+E0816,Rahul,-5,Sales,Madurai,27254,2.1,2026-02-28,missing-email,ACTIVE,PG,2.2
+E0817,Priya,-5, sales, chennai ,-25000,-2,2022-09-14, Employee817@Example.com ,On Leave,PG,7
+ E0818 ,Sanjay,38,Human Resources,Chennai,56442,,not a date,,Resigned,ug ,
+E0819,Divya,150,Human Resources, chennai ,108132,22.2,29/12/2021,missing-email,Left,,2.3
+E0820,Ahalya,150,Finance,Bengaluru,,-2,,missing-email,ACTIVE,UG,0
+E0821,Ahalya,150,Human Resources,Chennai,-25000,40,2024-09-12,missing-email,Active,Diploma,7
+E0822,Rahul,45,Human Resources,Bengaluru,-25000,five,not a date,,left,Post Graduate,0
+E0823,Kavin,150,Human Resources,Bengaluru,not disclosed,22.4,19/07/2025,employee823@example.com,active,PG,
+E0824,Kavin,26,, chennai ,not disclosed,five,not a date,missing-email,Active,,1.6
+ E0825 ,Rahul,26,Marketing,Madurai,"₹45,000",,2022-03-07,employee825@example.com,,PG,7
+ E0826 ,Priya,150,FINANCE,Madurai,"₹45,000",4.6,12/06/2021, Employee826@Example.com ,active,,
+E0827,Divya,,it ,Bengaluru,71729,-2,not a date,missing-email,Left,Post Graduate,0
+E0828,ROHAN,39,Finance,Chennai,"₹45,000",8.6,not a date,employee828@example.com,active,Diploma,0
+ E0829 ,Rahul,thirty,FINANCE,Madurai,"₹45,000",40,not a date,missing-email,Left,Post Graduate,0
+E0830,Divya,150, sales,Chennai,"₹45,000",40,16/07/2023, Employee830@Example.com ,ACTIVE,Diploma,
+ E0831 ,Sanjay,46,Human Resources,Salem,,,2022-03-21,employee831@example.com,Resigned,PG,7
+ E0832 ,  anitha ,thirty,HR,Bengaluru,,40,not a date, Employee832@Example.com ,active,UG,7
+E0833,Priya,,Sales,Salem,"₹45,000",40,2023-10-02,missing-email,On Leave,Post Graduate,
+ E0834 ,Divya,-5,IT,Madurai,-25000,40,2021-05-10,,Resigned,,0
+E0835,Vijay,thirty,,Madurai,63392,,"Jun 01, 2026", Employee835@Example.com ,Left,ug ,3.3
+E0836,Sanjay,41, sales,Madurai,not disclosed,five,not a date,missing-email,left,,1.6
+ E0837 ,Sanjay,,Sales,Madurai,-25000,40,25/02/2024,missing-email,Left,Post Graduate,0
+E0838,Meena,thirty,HR,Chennai,"₹45,000",10.6,"Sep 03, 2022", Employee838@Example.com ,On Leave,UG,
+E0839,Vijay,thirty,Finance,Salem,-25000,-2,"Jul 23, 2023", Employee839@Example.com ,ACTIVE,Post Graduate,1.5
+E0840,Rahul,-5, sales,Coimbatore,,40,2024-02-01,,Resigned,Post Graduate,4.3
+E0841,Priya,thirty,hr,Coimbatore,28323,,2023-10-15,employee841@example.com,Left,UG,0
+E0842,Priya,150,FINANCE, chennai ,"₹45,000",10.0,not a date,,Left,ug ,0
+E0843,Arun,35,Human Resources,Coimbatore,26879,,2023-09-08,employee843@example.com,Resigned,Diploma,7
+E0844,Vijay,-5,HR,Madurai,23081,40,2024-02-01,employee844@example.com,Left,Post Graduate,0
+ E0845 ,Nila,-5,Sales,HYDERABAD,,3.8,,missing-email,ACTIVE,PG,0
+E0846,Priya,-5,hr,Chennai,86247,40,not a date,,On Leave,UG,
+E0847,Meena,57,IT,Chennai,not disclosed,-2,2023-08-08, Employee847@Example.com ,left,UG,
+ E0848 ,Nila,150,,Salem,"₹45,000",five,24/03/2025,,Left,UG,3.5
+E0849,Ahalya,22,Sales,Madurai,20939,40,, Employee849@Example.com ,Left,ug ,0
+E0850,Kavin,150,Marketing,Chennai,23870,-2,"Oct 18, 2021",,,PG,1.1
+E0851,Divya,thirty,Marketing,HYDERABAD,89600,40,10/05/2021, Employee851@Example.com ,Active,UG,7
+E0852,Meena,47,IT,Madurai,-25000,40,"Feb 20, 2022",employee852@example.com,,UG,5.0
+E0853,Rahul,thirty,Finance,,50345,21.2,"Aug 10, 2022",employee853@example.com,ACTIVE,Diploma,0
+ E0854 ,Priya,,Marketing,,"₹45,000",40,not a date,missing-email,On Leave,Diploma,4.8
+ E0855 ,Nila,,Marketing,Coimbatore,67011,five,31/10/2025,employee855@example.com,Resigned,Post Graduate,
+E0856,Ahalya,,it ,Coimbatore,"₹45,000",five,2024-01-20,employee856@example.com,Left,,0
+E0857,Divya,-5,hr,Madurai,not disclosed,40,,missing-email,,PG,
+E0858,Nila,21,Marketing, chennai ,147814,-2,not a date,missing-email,Left,UG,0
+E0859,ROHAN,,,Salem,-25000,11.3,"May 15, 2023",,Resigned,ug ,0
+E0860,Meena,thirty,Finance,HYDERABAD,25488,12.3,"Oct 21, 2023",missing-email,active,ug ,excellent
+E0861,Arun,43,Marketing, chennai ,"₹45,000",19.0,"Aug 31, 2023",employee861@example.com,,ug ,
+E0862,Ahalya,59,Marketing,Coimbatore,not disclosed,40,,,Active,Post Graduate,excellent
+ E0863 ,Priya,-5,HR,Salem,-25000,five,03/10/2023,,Resigned,ug ,
+ E0864 ,Priya,150,IT,Bengaluru,145466,,not a date,employee864@example.com,,PG,3.9
+E0865,Nila,,hr,HYDERABAD,"₹45,000",40,,missing-email,,UG,excellent
+E0866,Ahalya,48,Human Resources, chennai ,54442,40,05/11/2023, Employee866@Example.com ,ACTIVE,,excellent
+E0867,Arun,-5,Human Resources,Salem,28758,40,,employee867@example.com,ACTIVE,,3.8
+E0868,Rahul,thirty,IT,,not disclosed,five,2023-12-23,missing-email,Left,PG,7
+E0869,Priya,51,FINANCE,Coimbatore,not disclosed,five,2025-10-25, Employee869@Example.com ,active,ug ,3.1
+ E0870 ,Divya,,HR,Madurai,,40,not a date,employee870@example.com,Resigned,ug ,
+E0871,Ahalya,thirty, sales, chennai ,,-2,2023-10-16,,active,,
+ E0872 ,Sanjay,-5,FINANCE,,"₹45,000",-2,,missing-email,On Leave,,excellent
+ E0873 ,  anitha ,59,it ,Salem,-25000,40,"Jun 21, 2026",employee873@example.com,left,Post Graduate,0
+ E0874 ,Vijay,thirty, sales,Madurai,-25000,-2,not a date,missing-email,ACTIVE,,0
+E0875,Vijay,-5,Marketing,Bengaluru,not disclosed,13.0,"Jan 23, 2025", Employee875@Example.com ,ACTIVE,,0
+E0876,Divya,150,FINANCE,HYDERABAD,not disclosed,-2,2024-05-26,missing-email,Active,UG,0
+E0877,Kavin,thirty,Finance,HYDERABAD,not disclosed,-2,not a date,,On Leave,Diploma,
+E0878,  anitha ,28, sales,Madurai,-25000,five,04/07/2022,employee878@example.com,Active,,3.3
+E0879,Rahul,thirty,IT,Coimbatore,"₹45,000",,,missing-email,Active,Post Graduate,
+E0880,Kavin,,IT,HYDERABAD,22571,five,"Jun 18, 2026",,Left,PG,
+ E0881 ,Arun,-5,IT, chennai ,,40,,,active,ug ,7
+E0882,Rahul,thirty,Sales,Chennai,not disclosed,,not a date,,,Post Graduate,7
+E0883,Rahul,-5,Sales,HYDERABAD,not disclosed,40,not a date, Employee883@Example.com ,left,PG,
+E0884,Rahul,150,Sales,HYDERABAD,51991,40,2024-12-31,,Active,ug ,7
+E0885,Vijay,150,Marketing,Madurai,,-2,08/09/2023, Employee885@Example.com ,Active,ug ,
+E0886,Divya,26,it ,Coimbatore,31124,-2,17/07/2023,missing-email,Left,ug ,excellent
+E0887,Arun,25,, chennai ,-25000,40,07/01/2026, Employee887@Example.com ,active,UG,
+E0888,Meena,150,FINANCE,Chennai,,,2022-05-19,missing-email,Active,ug ,1.5
+E0889,Kavin,,IT,Coimbatore,not disclosed,40,not a date, Employee889@Example.com ,Active,UG,
+E0890,Nila,150,Sales,HYDERABAD,not disclosed,40,,,left,Post Graduate,
+E0891,Divya,, sales,HYDERABAD,27546,-2,"Sep 21, 2025",employee891@example.com,left,Diploma,7
+E0892,Priya,,HR,Madurai,"₹45,000",,"Aug 22, 2024",,,Diploma,7
+ E0893 ,Rahul,,HR,Bengaluru,"₹45,000",,25/04/2026,employee893@example.com,,ug ,7
+E0894,Meena,-5,FINANCE,Coimbatore,not disclosed,40,"May 19, 2021",missing-email,Active,UG,excellent
+ E0895 ,Vijay,38,Sales,Salem,-25000,40,,,Resigned,UG,excellent
+E0896,Divya,150,Sales,,131615,five,,employee896@example.com,left,PG,
+ E0897 ,Vijay,150,IT,HYDERABAD,,-2,25/01/2021, Employee897@Example.com ,ACTIVE,ug ,0
+E0898,Sanjay,34,hr, chennai ,-25000,18.2,not a date, Employee898@Example.com ,,Diploma,0
+E0899,Ahalya,thirty, sales,,not disclosed,five,"Dec 02, 2023", Employee899@Example.com ,left,Diploma,0
+ E0900 ,Priya,52,hr,Bengaluru,96732,five,03/04/2022, Employee900@Example.com ,On Leave,,excellent
+ E0901 ,Divya,42, sales,Coimbatore,not disclosed,12.0,"May 07, 2025",employee901@example.com,On Leave,ug ,0
+ E0902 ,Arun,-5,it ,Madurai,"₹45,000",40,20/04/2024,,ACTIVE,Diploma,0
+ E0903 ,Kavin,58,Marketing,Coimbatore,44387,19.9,,,Active,UG,2.9
+E0904,Kavin,-5,HR,Chennai,111651,-2,2022-11-08,employee904@example.com,Left,PG,7
+E0905,Meena,thirty,Human Resources, chennai ,94396,-2,2021-10-11,,,Post Graduate,0
+ E0906 ,Arun,-5,it ,Bengaluru,"₹45,000",five,"Sep 20, 2022",,Left,PG,
+ E0907 ,ROHAN,23,Sales,Madurai,48859,,2021-11-02,missing-email,,ug ,excellent
+E0908,Ahalya,40,HR,Salem,82026,,12/03/2023,missing-email,On Leave,PG,7
+E0909,Priya,150,it ,HYDERABAD,62848,40,"Sep 10, 2024", Employee909@Example.com ,active,ug ,0
+ E0910 ,Ahalya,,HR,Bengaluru,not disclosed,-2,02/02/2026, Employee910@Example.com ,Resigned,Post Graduate,2.5
+E0911,Vijay,thirty,,Madurai,,five,,,On Leave,,7
+ E0912 ,Sanjay,-5,,Madurai,-25000,40,2024-04-21,,Resigned,Post Graduate,0
+E0913,Divya,,HR,HYDERABAD,-25000,,25/03/2021,,Active,UG,0
+ E0914 ,Vijay,150,IT,Salem,85765,-2,,employee914@example.com,active,PG,7
+E0915,Kavin,,Human Resources,Salem,21862,-2,17/08/2024,,ACTIVE,,0
+E0916,Priya,150,hr,Chennai,-25000,-2,,employee916@example.com,Left,UG,0
+ E0917 ,  anitha ,150,,Salem,not disclosed,five,,employee917@example.com,active,Diploma,0
+ E0918 ,Priya,,FINANCE,Madurai,not disclosed,20.1,10/05/2021, Employee918@Example.com ,,,0
+E0919,Arun,45,Marketing,,,40,,employee919@example.com,,ug ,0
+ E0920 ,ROHAN,33,HR,Bengaluru,136727,14.3,"Sep 23, 2024",missing-email,,UG,1.5
+E0921,Ahalya,thirty,Marketing,Bengaluru,"₹45,000",five,"Jan 26, 2025",employee921@example.com,Left,Diploma,7
+E0922,Meena,39,Sales,HYDERABAD,59348,,"Nov 26, 2024",,active,Post Graduate,7
+ E0923 ,Kavin,150,hr,Salem,-25000,8.2,16/11/2025,employee923@example.com,Resigned,Diploma,
+E0924,Nila,thirty,,Salem,38667,five,,employee924@example.com,left,UG,4.6
+E0925,Sanjay,40,HR,,55264,1.3,,employee925@example.com,Resigned,ug ,0
+ E0926 ,Arun,thirty,Human Resources,Coimbatore,-25000,five,2024-12-06,employee926@example.com,Left,ug ,excellent
+E0927,Nila,57,it ,Bengaluru,not disclosed,40,,,ACTIVE,ug ,7
+ E0928 ,Vijay,-5,IT,Salem,36337,five,2023-10-17,employee928@example.com,ACTIVE,Post Graduate,excellent
+E0929,Meena,,hr,Chennai,,18.6,not a date, Employee929@Example.com ,Left,,1.4
+ E0930 ,Divya,-5,Marketing,Salem,,3.7,"Nov 15, 2025",missing-email,,,
+E0931,Divya,-5,Finance,Coimbatore,"₹45,000",-2,2023-06-15,missing-email,Active,UG,excellent
+E0932,Kavin,150,,,,,2023-05-23,,Resigned,Diploma,7
+E0933,  anitha ,150,Finance,HYDERABAD,,40,28/01/2026,employee933@example.com,Left,Post Graduate,
+E0934,Divya,38,HR, chennai ,-25000,-2,,missing-email,active,PG,0
+E0935,Rahul,thirty,HR,,not disclosed,0.1,,,Left,PG,0
+E0936,Divya,37,Finance,Madurai,46144,five,,missing-email,Left,Diploma,0
+E0937,Priya,,IT,HYDERABAD,,five,2021-02-03,employee937@example.com,Active,PG,excellent
+ E0938 ,Ahalya,27,,HYDERABAD,,,2023-01-30,employee938@example.com,active,Diploma,7
+ E0939 ,ROHAN,-5,it ,Coimbatore,80051,five,05/01/2024,employee939@example.com,Active,ug ,
+E0940,Rahul,47,Sales,,not disclosed,five,2022-07-23,,ACTIVE,UG,excellent
+E0941,Meena,,Finance,Chennai,,,06/02/2022, Employee941@Example.com ,,PG,3.5
+E0942,Rahul,-5,HR,Coimbatore,,,not a date,employee942@example.com,On Leave,UG,
+ E0943 ,Priya,,,Madurai,"₹45,000",,,missing-email,,ug ,7
+E0944,Vijay,-5,hr,Coimbatore,,40,,,Active,PG,excellent
+E0945,Ahalya,150,FINANCE, chennai ,121443,five,29/11/2025, Employee945@Example.com ,Left,Post Graduate,0
+E0946,Priya,54,IT, chennai ,-25000,,not a date,,ACTIVE,Post Graduate,7
+E0947,  anitha ,26,HR,Chennai,,-2,2021-03-03,employee947@example.com,active,Diploma,excellent
+E0948,ROHAN,26,,Chennai,67917,five,"Aug 19, 2024",employee948@example.com,ACTIVE,Diploma,2.3
+ E0949 ,Sanjay,-5,FINANCE, chennai ,86368,,,,ACTIVE,PG,0
+E0950,Ahalya,53,HR,Salem,"₹45,000",40,2023-08-16,employee950@example.com,Left,ug ,0
+E0951,Meena,44,FINANCE,Madurai,,five,09/09/2021,,Resigned,Diploma,0
+E0952,Divya,thirty,,,not disclosed,40,not a date, Employee952@Example.com ,Resigned,UG,excellent
+E0953,Nila,32,HR,Salem,33915,40,,employee953@example.com,left,,7
+ E0954 ,Arun,thirty,Human Resources, chennai ,69556,five,2024-08-19,,ACTIVE,,0
+ E0955 ,ROHAN,thirty,FINANCE,HYDERABAD,-25000,,not a date, Employee955@Example.com ,Left,UG,0
+E0956,Priya,26, sales,Madurai,58223,-2,"Apr 22, 2026",missing-email,Resigned,Diploma,
+E0957,Vijay,33,FINANCE,Chennai,"₹45,000",40,"Jun 11, 2025",missing-email,Left,,
+E0958,ROHAN,thirty,Sales,Chennai,-25000,,,employee958@example.com,left,,0
+ E0959 ,ROHAN,,IT,Coimbatore,,-2,"Apr 17, 2024",employee959@example.com,active,UG,excellent
+ E0960 ,Arun,150,Human Resources,HYDERABAD,not disclosed,,2024-04-30, Employee960@Example.com ,Resigned,PG,7
+E0961,Priya,23,IT,Chennai,"₹45,000",five,not a date,employee961@example.com,Active,Post Graduate,7
+,Meena,,, chennai ,52032,40,not a date,missing-email,On Leave,UG,
+E0963,Nila,thirty,it ,Madurai,108647,five,2021-05-26,missing-email,Left,ug ,0
+E0964,Arun,,Finance,Salem,,,13/04/2026, Employee964@Example.com ,Resigned,Diploma,2.7
+ E0965 ,Arun,23,Finance,HYDERABAD,not disclosed,13.4,"Aug 26, 2025",employee965@example.com,On Leave,ug ,4.9
+ E0966 ,Divya,54, sales, chennai ,51760,,2025-11-27, Employee966@Example.com ,Active,ug ,7
+E0967,Divya,41,FINANCE,Coimbatore,,-2,"Jan 13, 2026",missing-email,On Leave,Post Graduate,7
+E0968,Meena,56,FINANCE,Chennai,not disclosed,-2,2025-03-16,employee968@example.com,,PG,
+E0969,  anitha ,56,Sales,,53781,-2,2024-06-12,employee969@example.com,Active,Post Graduate,excellent
+E0970,Priya,thirty, sales,HYDERABAD,-25000,14.4,not a date,missing-email,On Leave,,excellent
+E0971,Vijay,59,IT,Coimbatore,not disclosed,five,"May 24, 2025",,Resigned,Post Graduate,1.4
+ E0972 ,Vijay,thirty,FINANCE,Chennai,,,26/08/2022,,On Leave,Post Graduate,excellent
+E0973,Arun,150,it ,Madurai,"₹45,000",24.3,not a date, Employee973@Example.com ,Left,Diploma,excellent
+E0974,ROHAN,thirty,,HYDERABAD,-25000,-2,not a date,employee974@example.com,Resigned,UG,
+ E0975 ,Divya,-5,Marketing, chennai ,76904,five,,,Left,UG,7
+E0976,Priya,,IT,Salem,100233,,"May 11, 2025",,left,,4.6
+E0977,Ahalya,,hr,HYDERABAD,20853,40,not a date,,Left,UG,
+ E0978 ,  anitha ,60,, chennai ,"₹45,000",five,"Aug 20, 2024",employee978@example.com,Resigned,UG,
+E0979,Sanjay,thirty,Finance,,73888,-2,"Mar 28, 2022",missing-email,left,ug ,7
+ E0980 ,Ahalya,150,Human Resources, chennai ,-25000,0.5,not a date,,left,UG,excellent
+ E0981 ,ROHAN,55,Human Resources,Madurai,,11.3,04/04/2026,missing-email,Resigned,ug ,excellent
+E0982,Arun,26, sales,Madurai,41531,five,2021-12-01,,Resigned,PG,excellent
+E0983,Ahalya,150,Human Resources,Bengaluru,,five,"Aug 31, 2022",missing-email,Active,PG,0
+E0984,Divya,53,Finance, chennai ,-25000,,15/07/2023,missing-email,ACTIVE,ug ,7
+E0985,  anitha ,,IT,Salem,,40,, Employee985@Example.com ,On Leave,PG,0
+E0986,  anitha ,150,Sales,HYDERABAD,,five,2022-05-13, Employee986@Example.com ,Active,Diploma,7
+ E0987 ,Sanjay,52,IT,HYDERABAD,72793,23.2,not a date,employee987@example.com,ACTIVE,UG,2.5
+ E0988 ,  anitha ,,Marketing,Bengaluru,,-2,03/11/2022,employee988@example.com,Active,Diploma,7
+ E0989 ,Vijay,150, sales,,not disclosed,,, Employee989@Example.com ,Active,Post Graduate,0
+E0990,ROHAN,thirty,IT,HYDERABAD,,3.2,"Oct 09, 2025",employee990@example.com,left,Post Graduate,
+E0991,  anitha ,-5,Finance, chennai ,-25000,five,not a date,employee991@example.com,Resigned,PG,excellent
+ E0992 ,Divya,150,hr, chennai ,not disclosed,,,,,ug ,7
+E0993,Vijay,,IT,,"₹45,000",,11/09/2025,missing-email,Active,,excellent
+ E0994 ,Divya,46,,Bengaluru,-25000,-2,2025-12-14,missing-email,,Post Graduate,1.2
+ E0995 ,Vijay,thirty, sales,Madurai,-25000,,,,ACTIVE,Diploma,excellent
+E0996,Arun,32,FINANCE, chennai ,37445,five,"Oct 01, 2025",,Resigned,ug ,1.7
+ E0997 ,Vijay,thirty,IT,Madurai,,-2,08/03/2023, Employee997@Example.com ,Resigned,Post Graduate,0
+E0998,Rahul,thirty,HR,Bengaluru,-25000,40,"Nov 29, 2023",,,,0
+,Sanjay,,Human Resources,Chennai,35725,five,2021-06-02,,Left,Post Graduate,0
+ E1000 ,Kavin,-5,Sales,Bengaluru,-25000,-2,"Jun 30, 2021",missing-email,Left,UG,
+E0842,Priya,150,FINANCE, chennai ,"₹45,000",10.0,not a date,,Left,ug ,0
+E0957,Vijay,33,FINANCE,Chennai,"₹45,000",40,"Jun 11, 2025",missing-email,Left,,
+E0545,Kavin,54,hr,Madurai,60001,-2,"Apr 13, 2023",employee545@example.com,active,PG,3.3
+ E0174 ,Divya,,it , chennai ,36637,-2,2025-02-10,employee174@example.com,left,,4.9
+E0760,Nila,150,, chennai ,,40,2024-04-23,employee760@example.com,ACTIVE,PG,7
+E0956,Priya,26, sales,Madurai,58223,-2,"Apr 22, 2026",missing-email,Resigned,Diploma,
+ E0122 ,Priya,-5, sales,Salem,54282,,2021-05-08,,active,,0
+E0231,Priya,150,,Coimbatore,53294,13.3,not a date,,ACTIVE,UG,excellent
+ E0012 ,ROHAN,,HR, chennai ,,40,not a date,,Active,ug ,3.9
+E0121,Sanjay,60,Sales,Madurai,not disclosed,40,2024-10-02, Employee121@Example.com ,Active,Diploma,7
+E0660,Nila,150,IT,HYDERABAD,"₹45,000",0.2,"Jun 02, 2026",,Active,Post Graduate,0
+ E0420 ,Arun,54,hr,HYDERABAD,-25000,,18/06/2022,missing-email,Resigned,PG,7
+E0192,Vijay,32,hr,,not disclosed,five,, Employee192@Example.com ,ACTIVE,Diploma,
+E0945,Ahalya,150,FINANCE, chennai ,121443,five,29/11/2025, Employee945@Example.com ,Left,Post Graduate,0
+ E0393 ,Ahalya,,IT, chennai ,73008,10.6,2021-06-09,,Active,,3.1
+E0418,ROHAN,23,it , chennai ,81746,-2,not a date,employee418@example.com,Resigned,ug ,excellent
+E0846,Priya,-5,hr,Chennai,86247,40,not a date,,On Leave,UG,
+E0815,Divya,150,,Madurai,"₹45,000",,, Employee815@Example.com ,ACTIVE,ug ,
+E0773,Meena,,HR,HYDERABAD,41710,five,09/04/2022,,left,ug ,7
+E0375,Kavin,34,Sales,Bengaluru,-25000,five,not a date,missing-email,,ug ,3.0
+E0026,Kavin,,it ,Bengaluru,"₹45,000",,not a date, Employee26@Example.com ,active,PG,
+E0465,Ahalya,,Finance,Salem,,40,,,ACTIVE,UG,7
+E0373,Kavin,45,,Bengaluru,105269,-2,, Employee373@Example.com ,Active,Post Graduate,0
+E0731,Arun,,Human Resources,,not disclosed,40,2026-04-21,missing-email,active,Diploma,excellent
+E0758,Nila,43,Sales, chennai ,,,2021-07-26,employee758@example.com,Resigned,Diploma,
+E0358,Nila,49,Marketing,Salem,67666,five,not a date,,,Post Graduate,7
+ E0566 ,Priya,150,Human Resources,HYDERABAD,,,"Aug 19, 2024",employee566@example.com,Left,UG,7
+E0768,Ahalya,50,IT,Coimbatore,-25000,,2024-04-01,,Active,PG,
+ E0643 ,Vijay,150,Marketing,Chennai,not disclosed,6.3,2025-10-01,,ACTIVE,Diploma,7
+ E0608 ,Vijay,-5,Marketing,Bengaluru,,five,,,On Leave,UG,0
